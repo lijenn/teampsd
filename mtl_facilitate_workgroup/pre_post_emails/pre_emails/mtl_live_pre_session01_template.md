@@ -42,8 +42,7 @@ The Employee Education System Workgroup coordinates with the VA's Employee Educa
 
 The Veterans Advisory Partnership for Operations Research is a group of Peer Support Specialists that ensure Veterans' voices and experiences are represented in MTL and at the stakeholder table.
 
-<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/thompson_vapor.jpg" height="250" width="350"> 
-
+[<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/thompson_vapor.jpg" height="250" width="350">](https://youtu.be/uaXbTnE8Vts)
 
 Meet Tammy Thompson, US Air Force Veteran and member of VAPOR (Veterans Advisory Partnership for Operations and Research) alumni with TeamPSD. During her time with the team as a member of VAPOR, she ensured that Veterans' voices were represented at the stakeholder table. As a veteran of the U.S. Air Force having served for 8 years, she welcomes the opportunity to give back. She is a “Certified Peer Support Specialist” as well as an Advanced Level WRAP (Wellness Recovery Action Plan) Facilitator working at the VA hospital in Menlo Park where she has the opportunity to co-facilitate with another Advanced Level WRAP facilitator. Having had her own struggles with many different issues and after searching for a better way she was introduced to WRAP. During some of her more challenging lived experiences it was by “grace” and by utilizing her WRAP that she was able to quickly recover and go on with the business of living. At present, she runs a 12 week WRAP group in the Veterans Recovery Center in San Jose, CA. She constantly remind myself and others that Wellness is Possible. You can watch Tammy's incredible journey at [mtl.how/video](https://youtu.be/uaXbTnE8Vts).
 
