@@ -23,7 +23,7 @@ output:
 
 In our upcoming first session of *MTL* we're modeling to learn how to align our team vision.
 
-# Meet Your Facilitator
+## Meet Your Facilitator
 
 [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
