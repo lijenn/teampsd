@@ -44,8 +44,11 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **We will learn how to check our patient data and team trends.**  
 **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
+# LOGISTICS - SAME FOR EVERY EMAIL - UPDATE DATES ETC.
+## Meeting Dates
+## Technology Needs
 
-## SAME FOR EVERY EMAIL
+# ACCREDITATION - SAME FOR EVERY EMAIL
 ## Employee Education Services 
 As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
 
@@ -54,7 +57,7 @@ As we discussed the Employee Education System Workgroup coordinates with the VA'
 
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
-## SAME FOR EVERY EMAIL - CHANGE VETERAN
+# INSPIRATION - SAME FOR EVERY EMAIL - USE DIFFERENT VETERAN
 ## Meet Our Veteran Partners
 
 [<img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_vapor.png" height="150" width="350">](https://www.tms.va.gov/SecureAuth35/) 
