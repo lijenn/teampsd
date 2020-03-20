@@ -35,8 +35,6 @@ As we discussed the Employee Education System Workgroup coordinates with the VA'
 
 <img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo.jpg"> |
 
-<img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_ees.png" height="250" width="450"> 
-
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
 ## Meet Our Veteran Partners
