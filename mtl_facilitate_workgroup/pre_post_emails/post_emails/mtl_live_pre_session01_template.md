@@ -18,6 +18,8 @@ output:
 
 ## Thank you for attening our first *MTL* session
 
+
+# SAME FOR EVERY EMAIL - CHOOSE CORRESPONDING SESSION
 <!-- Do/Done Tables -->
 | <img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "65" width = "65"> **Done** | 
 | --- |
@@ -25,6 +27,7 @@ output:
 |**Selected our Team Vision.** 
 
 
+# SAME FOR EVERY EMAIL
 ## Employee Education Services 
 As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
 
@@ -33,7 +36,7 @@ As we discussed the Employee Education System Workgroup coordinates with the VA'
 
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
-
+# SAME FOR EVERY EMAIL - CHNAGE VETERAN
 ## Meet Our Veteran Partners
 
 [<img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_vapor.png" height="150" width="350">](https://www.tms.va.gov/SecureAuth35/) 
@@ -45,6 +48,7 @@ The Veterans Advisory Partnership for Operations Research is a group of Peer Sup
 
 Meet Leroy Edwards, a retired Army Veteran of 29 years who dedicates his civilian service with the Veteran Health Administration (VHA). A Leroy’s is Mental health Peer Specialist in the Veterans Health Administration (VHA) located in the Palo Alto Veterans Health Care System.  Being a Peer specialist provides a partnership/liaison between the Veteran and their licensed provider from a shared experience. He is a member of the BHIP team in Stockton Clinic that advocates for the providers and Veterans . He also facilitates several Mental/Substance groups weekly. You can learn more about Leroy and the rest of the VAPOR team at [mtl.how/team](https://mtl.how/team). Watch Leroy describe his incredible experiences and journey [mtl.how/video](https://youtu.be/v__ajZngWNA).
 
+# SAME FOR EVERY EMAIL - CHANGE CONTENT CORRESPONDING SESSION
 ## Before Next Week
 
 <img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "75" width = "75"> **Do** |
@@ -52,7 +56,7 @@ Meet Leroy Edwards, a retired Army Veteran of 29 years who dedicates his civilia
 |**Before Our Next Team Meeting on (Include Date and Time here)**| 
 |[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "50" width = "75">](mailto:mtl.help@va.gov) **Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.**  |
 
-
+# SAME FOR EVERY EMAIL - CHANGE CONTENT CORRESPONDING SESSION
 ## Next Week Session 2
 
 
