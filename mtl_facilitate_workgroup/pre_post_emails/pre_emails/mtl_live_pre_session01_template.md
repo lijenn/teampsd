@@ -27,7 +27,8 @@ In our upcoming first session of *MTL* we're modeling to learn how to align our 
 
 [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
-Dr. Matt Moore will be your facilitator  for the duration of the 12 session plan of  MTL.  Matt Moore, PhD, is a Clinical Psychologist who has spent his career in a variety of clinical and administrative positions at VA. He earned his PhD from The University of Texas Southwestern Medical Center in Dallas. From his early days at VA working in the clinical front-lines, his focus has consistently been on improving mental health care for Veterans. He took on a variety of roles in support of that desire by advancing to the management of VA outpatient clinics and overseeing facility wide mental health services. In 2015, he moved into his current position at VACO in the Office of Mental Health and Suicide Prevention as a National Mental Health Technical Assistance Specialist. Living in San Francisco affords him the opportunity to explore adventurous dining and wine tasting opportunities. He also never turns down the opportunity to travel.
+Dr. Matt Moore will be your facilitator for the duration of the 12 session plan of  MTL.  Matt Moore, PhD, is a Clinical Psychologist who has spent his career in a variety of clinical and administrative positions at VA. He earned his PhD from The University of Texas Southwestern Medical Center in Dallas. You can learn more about Dr. Moore and the rest of our team at [mtl.how/team](https://mtl.how/team)
+
 
 
 ## Employee Education Services 
