@@ -1,7 +1,7 @@
 ---
 title: "MTL Session 1 Pre Email"
 author: "Team PSD"
-date: "RH March 19 2020"
+date: "RH March 19 2020 | RH March 20 2020"
 output: 
   github_document: default
   html_document: default
@@ -31,10 +31,13 @@ Dr. Matt Moore will be your facilitator  for the duration of the 12 session plan
 
 
 ## Employee Education Services 
+As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
+
+<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo.jpg"> |
 
 <img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_ees.png" height="250" width="450"> 
 
-The Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate. You will receive CMUs from Employee Education Services (EES) for participating in *MTL*.  You can find more details by visiting their website 
+You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
 ## Meet Our Veteran Partners
 
