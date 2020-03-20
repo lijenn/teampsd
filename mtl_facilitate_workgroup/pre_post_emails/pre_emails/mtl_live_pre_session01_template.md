@@ -23,6 +23,7 @@ output:
 
 In our upcoming first session of *MTL* we're modeling to learn how to align our team vision.
 
+# DONE/DO
 ## SAME FOR EVERY EMAIL - USE CORRESPONDING SESSION INFORMATION
 ## Next Week
 
@@ -31,15 +32,26 @@ In our upcoming first session of *MTL* we're modeling to learn how to align our 
 |**At Our Next Team Meeting**|
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
+LOGISTICS - this would be where the co-facs would be introduced for S01, as well as other details about dates, technology, etc.
 
-## Meet Your Facilitator
+# LOGISTICS - SAME FOR EVERY EMAIL - UPDATE DATES ETC.
+## Your Facilitator
 
-[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
+[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
 Dr. Matt Moore will be your facilitator for the duration of the 12 session plan of  MTL.  Matt Moore, PhD, is a Clinical Psychologist who has spent his career in a variety of clinical and administrative positions at VA. He earned his PhD from The University of Texas Southwestern Medical Center in Dallas. You can learn more about Dr. Moore and the rest of our team at [mtl.how/team](https://mtl.how/team)
 
+## Your C0-Facilitator
+[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
-## SAME FOR EVERY EMAIL
+Jane Branscomb, MPH, is a senior research associate at the Georgia Health Policy Center at Georgia State University and a co-facilitator of Modeling to Learn. At GHPC, she trains colleagues and clients in systems thinking and uses principles of participatory system dynamics, data visualization, and adult learning to facilitate groups tackling complicated challenges – whether civic leaders aiming to transform the health of a region or providers dedicated to veterans’ mental health. You can learn more about Jane and the rest of our team at [mtl.how/team](https://mtl.how/team)
+
+
+
+## Meeting Dates
+## Technology Needs
+
+# ACCREDITATION - SAME FOR EVERY EMAIL
 ## Employee Education Services 
 As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
 
@@ -47,7 +59,7 @@ As we discussed the Employee Education System Workgroup coordinates with the VA'
 
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
-## SAME FOR EVERY EMAIL - USE DIFFERENT VETERAN
+# INSPIRATION - SAME FOR EVERY EMAIL - USE DIFFERENT VETERAN
 ## Meet Our Veteran Partners
 
 <img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_vapor.png" height="150" width="350"> 
