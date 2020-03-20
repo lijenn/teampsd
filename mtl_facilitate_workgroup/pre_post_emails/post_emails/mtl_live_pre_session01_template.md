@@ -18,9 +18,6 @@ output:
 
 # Thank you for attening our first *MTL* session
 
-
-# We decided on our team vision.
-
 <!-- Do/Done Tables -->
 | <img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "65" width = "65"> **Done** | 
 | --- |
