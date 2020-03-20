@@ -30,7 +30,7 @@ In our upcoming first session of *MTL* we're modeling to learn how to align our 
 Dr. Matt Moore will be your facilitator for the duration of the 12 session plan of  MTL.  Matt Moore, PhD, is a Clinical Psychologist who has spent his career in a variety of clinical and administrative positions at VA. He earned his PhD from The University of Texas Southwestern Medical Center in Dallas. You can learn more about Dr. Moore and the rest of our team at [mtl.how/team](https://mtl.how/team)
 
 
-
+# SAME FOR EVERY EMAIL
 ## Employee Education Services 
 As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
 
@@ -38,6 +38,7 @@ As we discussed the Employee Education System Workgroup coordinates with the VA'
 
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
 
+# SAME FOR EVERY EMAIL - USE DIFFERENT VETERAN
 ## Meet Our Veteran Partners
 
 <img src="https://forio.com/app/va/va-psd-team/DynamicData/Admin/What%20We%20Do/team_psd_vapor.png" height="150" width="350"> 
@@ -49,6 +50,7 @@ The Veterans Advisory Partnership for Operations Research is a group of Peer Sup
 
 Meet Tammy Thompson, US Air Force Veteran and member of VAPOR (Veterans Advisory Partnership for Operations and Research) alumni with TeamPSD. As a veteran of the U.S. Air Force having served for 8 years, she welcomes the opportunity to give back. She is a “Certified Peer Support Specialist” as well as an Advanced Level WRAP (Wellness Recovery Action Plan) Facilitator working at the VA hospital in Menlo Park. You can learn more about Tammy the rest of the VAPOR team at [mtl.how/team](https://mtl.how/team). At present, she runs a 12 week WRAP group in the Veterans Recovery Center in San Jose, CA. You can watch Tammy's incredible journey at [mtl.how/video](https://youtu.be/uaXbTnE8Vts).
 
+# SAME FOR EVERY EMAIL - USE CORRESPONDING SESSION INFORMATION
 ## Next Week
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
