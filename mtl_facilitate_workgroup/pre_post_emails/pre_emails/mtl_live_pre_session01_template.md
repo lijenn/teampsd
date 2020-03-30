@@ -17,11 +17,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
      height = "175" width = "420">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md)
 
-
-### Part of template - same for every email - use corresponding session details
-
-
-# This week we're modeling to learn how to align our team vision.
+# This week we're modeling to learn how to align our team vision. 
 
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
