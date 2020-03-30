@@ -40,7 +40,6 @@ output:
 
 [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/edwards_vapor.jpg" height="250" width="350">](https://youtu.be/v__ajZngWNA)
 
-Meet Leroy Edwards, a retired Army Veteran of 29 years who dedicates his civilian service with the Veteran Health Administration (VHA). A Leroy’s is Mental health Peer Specialist in the Veterans Health Administration (VHA) located in the Palo Alto Veterans Health Care System.  Being a Peer specialist provides a partnership/liaison between the Veteran and their licensed provider from a shared experience. He is a member of the BHIP team in Stockton Clinic that advocates for the providers and Veterans . He also facilitates several Mental/Substance groups weekly. You can learn more about Leroy and the rest of the VAPOR team at [mtl.how/team](https://mtl.how/team). Watch Leroy describe his incredible experiences and journey [mtl.how/video](https://youtu.be/v__ajZngWNA).
 
 
 
