@@ -1,7 +1,7 @@
 ---
 title: "MTL Session 1 Pre Email"
 author: "Team PSD"
-date: "RH March 19 2020 | RH March 20 2020"
+date: "RH March 19 2020 | RH March 20 2020 | RH March 30 "
 output: 
   github_document: default
   html_document: default
@@ -17,24 +17,24 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
      height = "175" width = "420">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md)
 
-# Welcome to *MTL*
 
-*MTL* was co-developed by patient, provider and program officers over the last 5 years. *MTL* is a national quality improvement initiative in the Veterans Health Administration (VA). 
+### Part of template - same for every email - use corresponding session details
 
-In our upcoming first session of *MTL* we're modeling to learn how to align our team vision.
 
-# DONE/DO
-## SAME FOR EVERY EMAIL - USE CORRESPONDING SESSION INFORMATION
-## Next Week
+# This week we're modeling to learn how to align our team vision.
+
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
 | --- |
 |**At Our Next Team Meeting**|
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
-LOGISTICS - this would be where the co-facs would be introduced for S01, as well as other details about dates, technology, etc.
 
-# LOGISTICS - SAME FOR EVERY EMAIL - UPDATE DATES ETC.
+[<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
+| --- |
+
+
+
 ## Your Facilitator
 
 [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
