@@ -16,13 +16,12 @@ output:
 <!-- MTL Logo, HTML img tag -->
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
      height = "175" width = "420">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md) 
-[<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/thompson_vapor.jpg" height="250" width="420">](https://youtu.be/uaXbTnE8Vts)
 
 
 # This week we're modeling to learn how to align our team vision. 
 
 
-[<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
+[<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/thompson_vapor.jpg" height="250" width="420">](https://youtu.be/uaXbTnE8Vts)  |
 | --- |
 |**At Our Next Team Meeting**|
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
@@ -43,15 +42,6 @@ Dr. Matt Moore will be your facilitator for the duration of the 12 session plan 
 [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
 Jane Branscomb, MPH, is a senior research associate at the Georgia Health Policy Center at Georgia State University and a co-facilitator of Modeling to Learn. At GHPC, she trains colleagues and clients in systems thinking and uses principles of participatory system dynamics, data visualization, and adult learning to facilitate groups tackling complicated challenges – whether civic leaders aiming to transform the health of a region or providers dedicated to veterans’ mental health. You can learn more about Jane and the rest of our team at [mtl.how/team](https://mtl.how/team)
-
-
-
-## Meeting Dates
-## Technology Needs
-
-# ACCREDITATION - SAME FOR EVERY EMAIL
-## Employee Education Services 
-As we discussed the Employee Education System Workgroup coordinates with the VA's Employee Education System (EES) to secure accreditation for continuing education units for staff members who complete MTL Live, MTL Video, or MTL Facilitate.  Be sure to visit the The Employee Education System (EES) website and register to receive your CMU credits. You can find more details by visiting their website. 
 
 <img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo.jpg"> |
 
