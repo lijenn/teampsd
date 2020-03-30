@@ -38,8 +38,6 @@ output:
 **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
 
-[<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/edwards_vapor.jpg" height="250" width="350">](https://youtu.be/v__ajZngWNA)
-
 
 
 
