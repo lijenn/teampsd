@@ -23,7 +23,7 @@ output:
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** | [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html) [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)|
 | --- |--- |
-|**At Our Next Team Meeting**| Dr. Matt Moore will be your facilitator Jane Branscomb, MPH, will be the cofacilitator for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)|   
+|**At Our Next Team Meeting**| Matt Moore, Ph.D. will be your facilitator and Jane Branscomb MPH, will be the cofacilitator for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)|   
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
 
