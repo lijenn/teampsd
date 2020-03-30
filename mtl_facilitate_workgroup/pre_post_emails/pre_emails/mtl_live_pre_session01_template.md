@@ -31,9 +31,6 @@ output:
 | --- |
 
 
-[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html) [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
-
-
 <img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo.jpg"> |
 
 You will need to log in to TMS with your PIV card to receive your CMU credtis.
