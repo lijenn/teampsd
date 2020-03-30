@@ -31,17 +31,9 @@ output:
 | --- |
 
 
+[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html) [<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
 
-## Your Facilitator
-
-[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/moore_headshot.JPG" height= "250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
-
-Dr. Matt Moore will be your facilitator for the duration of the 12 session plan of  MTL.  Matt Moore, PhD, is a Clinical Psychologist who has spent his career in a variety of clinical and administrative positions at VA. He earned his PhD from The University of Texas Southwestern Medical Center in Dallas. You can learn more about Dr. Moore and the rest of our team at [mtl.how/team](https://mtl.how/team)
-
-## Your C0-Facilitator
-[<img src="https://github.com/lzim/teampsd/blob/master/resources/headshots/branscomb_headshot.JPG" height="250" width="200">](https://forio.com/app/va/va-psd-team/teampsd.html)
-
-Jane Branscomb, MPH, is a senior research associate at the Georgia Health Policy Center at Georgia State University and a co-facilitator of Modeling to Learn. At GHPC, she trains colleagues and clients in systems thinking and uses principles of participatory system dynamics, data visualization, and adult learning to facilitate groups tackling complicated challenges – whether civic leaders aiming to transform the health of a region or providers dedicated to veterans’ mental health. You can learn more about Jane and the rest of our team at [mtl.how/team](https://mtl.how/team)
+Dr. Matt Moore will be your facilitator Jane Branscomb, MPH, will be the cofacilitator for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)
 
 <img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo.jpg"> |
 
