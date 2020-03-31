@@ -30,8 +30,7 @@ output:
 | --- |   
 |Matt Moore, Ph.D. and Jane Branscomb MPH, will be the facilitators for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)|   
 
-
  
 [<img src = "https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo_mini.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) 
 | --- |  
-Register for continuing education credit.  
+[Register for continuing education credit.](https://www.tms.va.gov/SecureAuth35/)  
