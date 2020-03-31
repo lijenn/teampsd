@@ -14,7 +14,7 @@ output:
 
 <!-- MTL Logo, HTML img tag -->
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
-     height = "250" width = "420">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md)
+     height = "175" width = "420">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md)
 [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/edwards_vapor.jpg" height="250" width="420">](https://youtu.be/v__ajZngWNA)
 
 <!-- Do/Done Tables -->
