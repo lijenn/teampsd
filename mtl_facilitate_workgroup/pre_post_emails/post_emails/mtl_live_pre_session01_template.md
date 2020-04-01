@@ -29,8 +29,7 @@ output:
 | --- |
 |**Before Our Next Team Meeting on (Include Date and Time here)**|     
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "45" width = "75">](mailto:mtl.help@va.gov) **Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.**  |     
-<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "75" width = "75"> **Do** 
-**At Our Next Team Meeting**|
+[<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **We will learn how to check our patient data and team trends.** **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
 
 
