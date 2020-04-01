@@ -1,7 +1,7 @@
 ---
 title: "MTL Session 1 Pre Email"
 author: "Team PSD"
-date: "RH March 19 2020 | RH March 20 2020 | RH March 30 | RH March 31 2020 "
+date: "RH March 19 2020 | RH March 20 2020 | RH March 30 | RH March 31 2020 | April 1 2020| "
 output: 
   github_document: default
   html_document: default
@@ -24,13 +24,5 @@ output:
 | --- |   
 |**At Our Next Team Meeting**|
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |   
-
-
-[<img align="left" src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/moore_headshot_circle.png" height= "160" width="160">](https://forio.com/app/va/va-psd-team/teampsd.html) [<img align="left" src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/branscomb_headshot_circle.jpg" height="150" width="150">](https://forio.com/app/va/va-psd-team/teampsd.html)|
-| --- |   
-|Matt Moore, Ph.D. and Jane Branscomb MPH, will be the facilitators for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)|   
-
- 
-[<img src = "https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo_mini.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) 
-| --- |  
-[Register for continuing education credit.](https://www.tms.va.gov/SecureAuth35/)  
+[<img align="left" src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/moore_headshot_circle.png" height= "160" width="160">](https://forio.com/app/va/va-psd-team/teampsd.html) [<img align="left" src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/branscomb_headshot_circle.jpg" height="150" width="150">](https://forio.com/app/va/va-psd-team/teampsd.html)Matt Moore, Ph.D. and Jane Branscomb MPH, will be the facilitators for the duration of the 12 session plan of  MTL. Learn more about your facilitators and the rest of our team at [mtl.how/team](https://mtl.how/team)|   
+[<img src = "https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/va_tmps_logo_mini.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) [Register for continuing education credit.](https://www.tms.va.gov/SecureAuth35/)  
