@@ -21,9 +21,9 @@ output:
 
 # This week we're modeling to learn how to align our team vision.
 
-[<img align="left" src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) **Do** |
+[<img align="left" src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/session01/s01_learner/mtl_session01_see.md) <br> **Do** | 
 | --- |   
 |**At Our Next Team Meeting**|
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |   
+[<img align ="left" src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |   
 **Introducing your _Modeling to Learn_ Co-Facilitators.** Learn more about who we are and what we do at [mtl.how/team.](https://mtl.how/team) <br> [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/moore_headshot_circle.png" height= "75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html) <br> Matt Moore, Ph.D is a Quality Improvement Implementation Consultant at the VA Office of Mental Health & Suicide Prevention. <br> [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/branscomb_headshot_circle.jpg" height="75" width="75">](https://forio.com/app/va/va-psd-team/teampsd.html) <br> Jane Branscomb, MPH is a Senior Research Associate at the Georgia Health Policy Center at Georgia State University.  |   
 [<img src = "https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/revised_tms_logo.jpg" height = "75" width = "75">](https://www.docs.lms.va.gov/LMSDocs/default.aspx?id=56771) &nbsp; [Register for continuing education credit. Course code: **VA 41387**](https://www.docs.lms.va.gov/LMSDocs/default.aspx?id=56771)  
