@@ -18,8 +18,8 @@ output:
 [<img src="https://github.com/lzim/teampsd/blob/rita_2020_03_19_email_template_issue_1176/mtl_facilitate_workgroup/pre_post_emails/edwards_vapor.jpg" height="250" width="420">](https://youtu.be/v__ajZngWNA)
 
 <!-- Do/Done Tables -->
-| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md) **Done** | 
-| --- |
+| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "65" width = "65">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md) **Done** | 
+|:--- |
 |**At Our Last Team Meeting**|  
 |**Selected our Team Vision.** 
 
