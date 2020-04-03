@@ -1,7 +1,7 @@
 ---
 title: "MTL Session 1 Pre Email"
 author: "Team PSD"
-date: "RH March 19 2020, RH March 20 2020 | RH April 2 2020"
+date: "RH March 19 2020, RH March 20 2020 | RH April 3 2020"
 output: 
   github_document: default
   html_document: default
@@ -26,7 +26,7 @@ output:
 
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_synchronize_778914_003F72.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/blue/session02/s02_learner/mtl_session02_see.md) **Do** |   
-| --- |
+|:--- |
 |**Before Our Next Team Meeting on (Include Date and Time here)**|     
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "45" width = "75">](mailto:mtl.help@va.gov) &nbsp;  **Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.**  |     
 |**At Our Next Team Meeting**| 
