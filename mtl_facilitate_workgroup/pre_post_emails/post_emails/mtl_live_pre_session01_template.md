@@ -1,7 +1,7 @@
 ---
 title: "MTL Session 1 Pre Email"
 author: "Team PSD"
-date: "RH March 19 2020, RH March 20 2020 | RH April 10 2020"
+date: "RH March 19 2020, RH March 20 2020 | RH April 17 2020"
 output: 
   github_document: default
   html_document: default
@@ -18,19 +18,19 @@ output:
 [<img src="https://github.com/lzim/teampsd/blob/master/resources/vapor_team_youtube/edwards_vapor.jpg" height="250" width="420">](https://youtu.be/v__ajZngWNA)
 
 <!-- Do/Done Tables -->
-| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "65" width = "65">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md) **Done** | 
+| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/done.png" height = "65" width = "65">](https://github.com/lzim/mtl/blob/master/blue/session01/s01_learner/mtl_session01_see.md) Done| 
 |:--- |
 |**At Our Last Team Meeting**|  
-|**Selected our Team Vision.** 
+|Selected our Team Vision. 
 
 
 
-[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/do.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/blue/session02/s02_learner/mtl_session02_see.md) **Do** |   
+[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/icons/do.png" height = "75" width = "75">](https://github.com/lzim/mtl/blob/master/blue/session02/s02_learner/mtl_session02_see.md) Do |   
 |:--- |
 |**Before Our Next Team Meeting on (Include Date and Time here)**|     
-[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "45" width = "75">](mailto:mtl.help@va.gov) &nbsp;  **Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.**  |     
+[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "45" width = "75">](mailto:mtl.help@va.gov) &nbsp;  Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.  |     
 |**At Our Next Team Meeting**| 
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) &nbsp; **We will learn how to check our patient data and team trends.** **1. Log in to mtl.how/live** and **2. Call in to VANTS:** 1-800-767-1750, Code 27379 |
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) &nbsp; We will learn how to check our patient data and team trends. 1. **Log in to mtl.how/live** and 2. **Call in to VANTS:** 1-800-767-1750, Code 27379 |
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/tms_logo.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) &nbsp; [Register for continuing education credit. Course code: **VA 41387**](https://www.tms.va.gov/SecureAuth35/)  
 
 
