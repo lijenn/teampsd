@@ -1,16 +1,4 @@
----
-title: "MTL Session 1 Pre Email"
-author: "Team PSD"
-date: "RH March 19 2020, RH March 20 2020 | RH April 17 2020"
-output: 
-  github_document: default
-  html_document: default
-  pdf_document: default
-  word_document: default
-  ioslides_presentation: default
-  slidy_presentation: default
-  powerpoint_presentation: default
----
+
 
 <!-- MTL Logo, HTML img tag -->
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
