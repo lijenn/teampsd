@@ -19,6 +19,6 @@
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/va_team_psd_logo_sq_sm.png" height = "45" width = "75">](mailto:mtl.help@va.gov) &nbsp;  Select our Team Lead and select a standing team meeting time. Email Team PSD at mtl.help@va.gov to clarify the standing team meeting time and ask any questions you have.  |     
 |**At Our Next Team Meeting**| 
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_live_sm.png" height = "45" width = "75">](http://mtl.how/live) &nbsp; We will learn how to check our patient data and team trends. 1. **Log in to mtl.how/live** and 2. **Call in to VANTS:** 1-800-767-1750, Code 27379 |
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/tms_logo.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) &nbsp; [Register for continuing education credit. Course code: **VA 41387**](https://www.tms.va.gov/SecureAuth35/)  
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/tms_logo.jpg" height = "75" width = "75">](https://www.tms.va.gov/SecureAuth35/) &nbsp; [Register for continuing education credit. Course code: VA 41387](https://www.tms.va.gov/SecureAuth35/)  
 
 
