@@ -1,5 +1,4 @@
 # header 1
-## header 2 
 ### header 3
 
 testing to break MD003 - Header style ( "MD003": { "style": "atx_closed" })
