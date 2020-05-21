@@ -10,4 +10,4 @@ testing to break MD003 - Header style ( "MD003": { "style": "atx_closed" })
 
 testing if MD007 - Unordered list indentation ("MD007": { "indent": 4 })
 
-test
+testing
