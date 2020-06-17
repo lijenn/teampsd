@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team PSD Manual</title>
+  <title>Chapter 4 TeamPSD GitHub Guide | Team PSD Manual</title>
   <meta name="description" content="This is the Team PSD one stop shop." />
   <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Team PSD Manual" />
+  <meta property="og:title" content="Chapter 4 TeamPSD GitHub Guide | Team PSD Manual" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Team PSD Manual" />
+  <meta name="twitter:title" content="Chapter 4 TeamPSD GitHub Guide | Team PSD Manual" />
   
   <meta name="twitter:description" content="This is the Team PSD one stop shop." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="teampsd-guiding-principles.html"/>
+<link rel="prev" href="training-record.html"/>
+<link rel="next" href="issues-and-trackers-management.html"/>
 <script src="assets/jquery-2.2.3/jquery.min.js"></script>
 <link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -344,27 +344,63 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Team PSD Manual</h1>
-<p class="author"><em>Team PSD</em></p>
-<p class="date"><em>2020-06-17</em></p>
+<div id="teampsd-github-guide" class="section level1">
+<h1><span class="header-section-number">Chapter 4</span> TeamPSD GitHub Guide</h1>
+<div id="basics-of-github" class="section level3">
+<h3><span class="header-section-number">4.0.1</span> <strong>Basics of GitHub</strong></h3>
+<p>You can go through the quick guide in the link below. It will teach you about repositories, branches, commits, and opening/merging pull requests.<br />
+<a href="https://guides.github.com/activities/hello-world/" class="uri">https://guides.github.com/activities/hello-world/</a></p>
 </div>
-<div id="preface" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Preface</h1>
-<p>Welcome to your Bookdown</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>, <span class="st">&quot;HelpersMG&quot;</span>, <span class="st">&quot;readr&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<div id="style" class="section level3">
+<h3><span class="header-section-number">4.0.2</span> <strong>Style</strong></h3>
+<p>We use R Markdown format for syntax and style which you can refer to here (ADD HYPERLINK). Use a human and computer readable format to name files, meaning all lowercase, underscores, and dates (as necesary) with a name that will be meaningful to whoever reads it. For other style guidelines on TeamPSD materials, please refer to (HYPERLINK)</p>
+</div>
+<div id="creating-and-editing-files" class="section level3">
+<h3><span class="header-section-number">4.0.3</span> <strong>Creating and Editing Files</strong></h3>
+<ol style="list-style-type: decimal">
+<li>To create files, choose the branch or folder you want and click “Create New File.”<br />
+</li>
+<li>To view the file’s code, simply click “Raw” in the top right corner of the file, next to “Blame” and “History.”<br />
+</li>
+<li>To view comments that you/others have added, you can click on “History” and then check for an “ellipses” symbol. This symbol indicates that a comment has been added to the commit. To see the comment, click on the ellipses.
+<img src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_5.gif" /></li>
+</ol>
+</div>
+<div id="uploading-files" class="section level3">
+<h3><span class="header-section-number">4.0.4</span> <strong>Uploading Files</strong></h3>
+<p>To upload files, choose the branch or folder you want and upload the file. The file will be named as it was in your computer, so make sure to give the file a name according that is simple and reflective of its contents to anyone that reads the file name.</p>
+</div>
+<div id="downloading-files" class="section level3">
+<h3><span class="header-section-number">4.0.5</span> <strong>Downloading Files</strong></h3>
+<p>Files cannot be downloaded individually - you have to download the entire branch. You can find the green “Download” button on the main page of each branch.</p>
+</div>
+<div id="creating-and-editing-branches" class="section level3">
+<h3><span class="header-section-number">4.0.6</span> <strong>Creating and Editing Branches</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Open up the specific file you want to edit. Create a new working branch and name it using all lowercase, no spaces (use underscores), and your initials - i.e. “facilitation_guide_sp”.<br />
+<img src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_1.gif" /></p></li>
+<li><p>Make sure you’re in the branch you just created instead of the original branch. Click the pencil icon to edit. Edit the file and add comments on changes you made. Click on “Commit”.<br />
+<img src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_2.gif" /></p></li>
+</ol>
+</div>
+<div id="creating-and-editing-pull-requests" class="section level3">
+<h3><span class="header-section-number">4.0.7</span> <strong>Creating and Editing Pull Requests</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Go to “Pull Requests” and click on “New Pull Request”. The “Base” branch should be the original branch (most likely “master”). The “Compare” branch will be the branch you created. Click on “Create a New Pull Request”. Add “Reviewers” and click on “TeamPSD” for the “Project section. Click on”Create Pull Request".<br />
+<img src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_3.gif" /></p></li>
+<li><p>To add line specific comments, click on “Files Changed”. Hover your mouse in front of the specific line in question and a blue plus sign will appear. Click on that and add your comment.<br />
+<img src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_4.gif" /></p></li>
+</ol>
 
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-
-<a href="teampsd-guiding-principles.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="training-record.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="issues-and-trackers-management.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="assets/gitbook-2.6.7/js/app.min.js"></script>
