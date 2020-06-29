@@ -4,8 +4,7 @@
   "default": false,
   "no-hard-tabs": false,
   "whitespace": false,
-  # Please add on additional rules from here on:
   # Unordered list indentation
-  "MD007": { "indent": 4 }
-  "MD001": True,
+  "MD007": { "indent": 4 },
+  "MD001": True
 }
