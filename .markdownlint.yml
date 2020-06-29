@@ -7,4 +7,5 @@
   # Please add on additional rules from here on:
   # Unordered list indentation
   "MD007": { "indent": 4 }
+  "MD001": True,
 }
