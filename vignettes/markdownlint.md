@@ -66,7 +66,7 @@ Using **MD003 - Heading style.** for example:
 
 `"MD003": { "style": "atx_closed" }`
 
-**Common Error:** 
+**Common Errors:** 
 1. Keep in mind of spaces to be consistent within YAML/YML files.
 2. Remember to add a **comma** at the end of the rule **UNLESS** your rule is the last rule in the overall list.
 
