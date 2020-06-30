@@ -6,5 +6,9 @@
   "whitespace": false,
   # Please add on additional rules from here on:
   # Unordered list indentation
-  "MD007": { "indent": 4 }
+  "MD007": { "indent": 4 },
+  # Heading levels should only increment by one level at a time
+  "MD001": True,
+  # Heading style
+  "MD003": { "style": "atx_closed" }
 }
