@@ -1,7 +1,7 @@
 book_filename: "Team_PSD_Bookdown"
-bookdown::gitbook:
-  css: style.css
-  split_by: "section+number"
+output:
+  bookdown::gitbook: 
+    split_by: "chapter"
 language:
   ui:
     chapter_name: "Chapter "
