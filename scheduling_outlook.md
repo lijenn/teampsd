@@ -1,4 +1,4 @@
-## Scheduling Outlook Invitation
+# Scheduling Outlook Invitation
 
 - [ ] 1. On your own calendar, click on **New Meeting** in the top left.
 
@@ -15,4 +15,3 @@
 - [ ] 6. In the main **Body** of the email: Give context of meeting & re-write meeting details included in the "Location" section earlier. Include timezones (i.e. PST) when specifying times as many partners are not in the same time zone.
 
 - [ ] 7. Make sure to call the **VANTS** scheduling line (304-262-7600) to schedule the call you just made.
-
