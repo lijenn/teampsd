@@ -4,7 +4,7 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
-    download: [pdf, epub]
+    download: [pdf]
     edit: https://github.com/lijenn/teampsdprototype/edit/gh-pages/%s
     sharing:
       github: yes
