@@ -1,7 +1,7 @@
 book_filename: "Team_PSD_Bookdown"
 output:
   bookdown::gitbook: 
-    split_by: "chapter"
+    split_by: "none"
 language:
   ui:
     chapter_name: "Chapter "
