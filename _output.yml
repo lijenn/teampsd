@@ -4,5 +4,10 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
+    edit : true
+    sharing:
+      github: yes
+    download: true
+  info: yes
 bookdown::html_book:
   css: toc.css
