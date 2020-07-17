@@ -63,7 +63,7 @@ parse_yaml <- function(document){
 }
 
 # Point file name to the md file containing your table of contents.
-table_of_contents = read_markdown("table_of_contents.rmd")
+table_of_contents = read_markdown("table_of_contents.Rmd")
 
 markdown_files = parse_urls(table_of_contents)
 for(url in markdown_files){

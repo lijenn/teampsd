@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team PSD Manual</title>
+  <title>Chapter 12 Epicenter Administration Website Overview | Team PSD Manual</title>
   <meta name="description" content="This is the Team PSD one stop shop." />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Team PSD Manual" />
+  <meta property="og:title" content="Chapter 12 Epicenter Administration Website Overview | Team PSD Manual" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Team PSD Manual" />
+  <meta name="twitter:title" content="Chapter 12 Epicenter Administration Website Overview | Team PSD Manual" />
   
   <meta name="twitter:description" content="This is the Team PSD one stop shop." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="2-teampsd-guiding-principles.html"/>
+<link rel="prev" href="11-how-to-updateadd-a-demo-course-code.html"/>
+<link rel="next" href="13-mtl-demo-webmaster.html"/>
 <script src="assets/jquery-2.2.3/jquery.min.js"></script>
 <link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -345,27 +345,169 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Team PSD Manual</h1>
-<p class="author"><em>Team PSD</em></p>
-<p class="date"><em>2020-07-17</em></p>
+<div id="epicenter-administration-website-overview" class="section level1">
+<h1><span class="header-section-number">Chapter 12</span> Epicenter Administration Website Overview</h1>
+<div id="external-links-needed" class="section level2">
+<h2><span class="header-section-number">12.1</span> External links needed:</h2>
+<p><a href="https://forio.com/epicenter/sign-in" class="uri">https://forio.com/epicenter/sign-in</a></p>
 </div>
-<div id="preface" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Preface</h1>
-<p>Welcome to your Bookdown</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>, <span class="st">&quot;HelpersMG&quot;</span>, <span class="st">&quot;readr&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<div id="training-assumptions" class="section level2">
+<h2><span class="header-section-number">12.2</span> Training Assumptions:</h2>
+<ol style="list-style-type: decimal">
+<li>Trainees have established a username and login with Forio Epicenter.</li>
+<li>Trainees have logged in at least once and have bookmarked the login page in their browser (see External Links).</li>
+</ol>
+</div>
+<div id="training-objectives" class="section level2">
+<h2><span class="header-section-number">12.3</span> Training Objectives:</h2>
+<p>Upon completion of this module, the learner will be able to:</p>
+<ol style="list-style-type: decimal">
+<li>Navigate to the Dashboard and access Members, End Users and the Team Home page.</li>
+<li>On the Team Home page, understand the DEV, TEST, PROD project organization and be able to navigate to the appropriate project instance to achieve desired task goals.</li>
+<li>Once inside an instance, understand the functions of the left side navigation (i.e., Project, Model, Interface, Interface builder, Groups and Settings).</li>
+<li>Delete and load files into the Model, Interface and Groups directories.</li>
+<li>Navigate to the Dynamic Data folder and understand how the simulation uses the data contained inside.</li>
+</ol>
+</div>
+<div id="point-of-contact-james-rollins-praxis-analytix" class="section level2">
+<h2><span class="header-section-number">12.4</span> Point of Contact: James Rollins, Praxis Analytix</h2>
+</div>
+<div id="full-instructions" class="section level2">
+<h2><span class="header-section-number">12.5</span> Full Instructions</h2>
+<ol style="list-style-type: decimal">
+<li><strong>Navigate to the Project Home page.</strong> Using the link provided in the External Links section above, navigate to the Epicenter login page and login. You should be in the Dashboard landing page (see below). Click where indicated.</li>
+</ol>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/EP1.png" />
+Ep1</p>
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Veterans Affairs Project Home Page</strong>
+There are really only three MTL projects, each organized into a DEV, TEST and PROD instance. These instances have specific uses and although you may have access to all, you may not interact with all of them.</li>
+</ol>
+<p>DEV – This instance is for the exclusive use of the Development Team (A.K.A. “DEV”). DEV develops each sprint in this instance until they are satisfied it is ready for user testing. When satisfied, they will promote a sprint to TEST.</p>
+<p>TEST – This instance is for the Workgroup Leads and others to conduct user testing of the sprint. When the testing and resulting development iterations are completed, the sprint is released to PROD.</p>
+<p>PROD – This is the Production instance that is available to the MTL Community for use.</p>
+<p>Left-hand Navigation – The left-hand navigation contains Team Home, Members, End Users and Settings selections. We are mainly concerned with Members and End Users selections, which we discuss later on in training.</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep2.png" />
+Ep2</p>
+<ol start="3" style="list-style-type: decimal">
+<li><strong>Navigate to Members.</strong>
+Click “Members” on the left-hand menu. Members are people within the project organization, who are either authors or customer support. Authors can create and delete projects, add members, change member roles and have full administrative privileges. Customer support members can perform most administrative tasks, short of project maintenance (adding, deleting, etc.). <em>Members are usually added or deleted at the direction of the Principal Investigator (PI) or by members of Praxis Analytix.</em></li>
+</ol>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep3.png" />
+Ep3</p>
+<ol start="4" style="list-style-type: decimal">
+<li><strong>Navigate to End Users</strong>
+Click “End Users” on the left-hand menu. All individuals who are registered to use a given group-world as a student, admin or other must have an End User account. These accounts are identified by the person’s name and the email with which the registered. Changes to user accounts, such as name or passwords, can be made here by admins.</li>
+</ol>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep4.png" />
+Ep4</p>
+<ol start="5" style="list-style-type: decimal">
+<li><strong>Navigate to a Project Instance.</strong>
+Click VA Sim UI – TEST instance. The VA Sim UI – Test page will appear. Notice these elements on the page.</li>
+</ol>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep5.png" />
+Ep5</p>
+<ol start="6" style="list-style-type: decimal">
+<li><strong>Navigate to the Model Directory.</strong>
+The Model directory contains all Vensim model and Team Data files.</li>
+</ol>
+<p>Delete a file – To delete a file, click the checkbox and a delete button will appear. Click the delete button.</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep6.png" />
+Ep6</p>
+<p>Upload a file – Click the “Upload” button and select “Upload a File” from the drop down to upload a file.</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep7.png" />
+Ep7</p>
+<ol start="7" style="list-style-type: decimal">
+<li>**Navigate to the Interface Directory.”
+The Interface directory contains information that can be changed by the user. We are mainly concerned with the DynamicData folder, as it contains user customizable files.</li>
+</ol>
+<p>Click Dynamic Data – Inside this folder is the model-popup-information.xlsx file. This file contains the Sim UI “i” information text that is used in the pop ups. When this file is updated, it must be first deleted – then replaced by an updated file.</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep8.png" />
+Ep8</p>
+<p>Manipulate a File – If you want to view the contents of the model-popup-information.xlsx file, you must click it. Then select “View Raw.” The file will download, and you can review it using Microsoft Excel.</p>
+<ol style="list-style-type: lower-alpha">
+<li><p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep9.png" />
+Ep9</p></li>
+<li><p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep10.png" />
+Ep10</p></li>
+</ol>
+<ol start="8" style="list-style-type: decimal">
+<li><strong>Navigate to Groups Directory</strong>
+Epicenter has a two-tiered hierarchy for organizing users; namely, “Groups” and “Worlds.” However, for simplicity, the VA project has consolidated groups and worlds into a single tier. See “Group Management” lesson for more information regarding groups and procedures for setting them up.</li>
+</ol>
+<p>Navigate to the Group Directory.</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep11.png" />
+Ep11</p>
+<p>Click “Add Group.”</p>
+<p><img src="https://github.com/lzim/teampsd/blob/master/resources/training_guides/mtl_how_facilitate/graphics/ep12.png" />
+Ep12</p>
+</div>
+<div id="quick-checklist" class="section level2">
+<h2><span class="header-section-number">12.6</span> Quick Checklist:</h2>
+<p><em>There is no checklist provided for this module.</em></p>
+<div id="common-mistakes" class="section level4">
+<h4><span class="header-section-number">12.6.0.1</span> Common Mistakes:</h4>
+<ol style="list-style-type: decimal">
+<li><p>Users sometimes attempt to “Add” a file, instead of “Upload” a file. The “Add” function only adds a custom markdown file that can be edited from inside Epicenter. It is not relevant for our needs.</p></li>
+<li><p>Use care when uploading files:</p></li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li><p>While most uploading functions know to append a file with the same name, Epicenter sometimes chokes on this function. Therefore, delete a file you intend to replace first, then upload the replacement.</p></li>
+<li><p>Make sure you are uploading the file to the correct directory. Remember that model and team data files are loaded into the Model Directory.</p></li>
+</ol>
+</div>
+</div>
+<div id="training-record" class="section level2">
+<h2><span class="header-section-number">12.7</span> Training Record:</h2>
+<div id="practice" class="section level4">
+<h4><span class="header-section-number">12.7.0.1</span> Practice</h4>
+</div>
+<div id="section" class="section level3">
+<h3><span class="header-section-number">12.7.1</span> </h3>
+<ul>
+<li><input type="checkbox" disabled="" />
+<strong>Exercise 1:</strong> Login and navigate to the VA MTL DEMO – TEST project, Interface directory and answer the following:</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li><p>What folder are we mainly concerned with in this directory?</p></li>
+<li><p>What is inside the Dynamic Data folder?</p></li>
+<li><p>What is inside the Admin Folder?</p></li>
+<li><p>Briefly describe how you would update the CourseCode.xlsx file.</p></li>
+</ol>
+<p>Completed on: ________________ with _________________________</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+<strong>Exercise 2:</strong> Login and navigate to the VA Sim UI – TEST project and answer the following:</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>What is the name of the first Group in the Group Directory?</li>
+<li>Go to “team-telehealth-menlo-park-oct-2017.” How many End Users are in this group?</li>
+</ol>
+<p>Completed on: ________________ with _________________________</p>
+<div id="supervised-evaluation" class="section level4">
+<h4><span class="header-section-number">12.7.1.1</span> Supervised Evaluation</h4>
+<ul>
+<li><input type="checkbox" disabled="" />
+<strong>Supervised 1:</strong> Login and navigate to a project instance of your choice. Demonstrate how to move between Model, Interface and Group directories. Explain what types of information are stored within each of these directories.</li>
+</ul>
+<p>Completed on: ________________ with _________________________</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+<strong>Supervised 2:</strong> Login and navigate to a VA Project home page. Demonstrate how to find End User called “Dev User6” and which projects and groups they are assigned. Then navigate to a project/group assignment given by the evaluator and find the user.</li>
+</ul>
+<p>Completed on: ________________ with _________________________</p>
 
+</div>
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-
-<a href="2-teampsd-guiding-principles.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="11-how-to-updateadd-a-demo-course-code.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="13-mtl-demo-webmaster.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="assets/gitbook-2.6.7/js/app.min.js"></script>

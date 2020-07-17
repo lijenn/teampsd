@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team PSD Manual</title>
+  <title>Chapter 8 GitHub Repositories | Team PSD Manual</title>
   <meta name="description" content="This is the Team PSD one stop shop." />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Team PSD Manual" />
+  <meta property="og:title" content="Chapter 8 GitHub Repositories | Team PSD Manual" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Team PSD Manual" />
+  <meta name="twitter:title" content="Chapter 8 GitHub Repositories | Team PSD Manual" />
   
   <meta name="twitter:description" content="This is the Team PSD one stop shop." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="2-teampsd-guiding-principles.html"/>
+<link rel="prev" href="7-pull-requests-and-branches-management.html"/>
+<link rel="next" href="9-mtl-howlive-login-as-host.html"/>
 <script src="assets/jquery-2.2.3/jquery.min.js"></script>
 <link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -345,27 +345,166 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Team PSD Manual</h1>
-<p class="author"><em>Team PSD</em></p>
-<p class="date"><em>2020-07-17</em></p>
+<div id="github-repositories" class="section level1">
+<h1><span class="header-section-number">Chapter 8</span> GitHub Repositories</h1>
+<div id="external-links-needed" class="section level2">
+<h2><span class="header-section-number">8.1</span> External links needed:</h2>
+<ol style="list-style-type: decimal">
+<li>mtl.how</li>
+<li>mtl.how/teampsd</li>
+</ol>
 </div>
-<div id="preface" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Preface</h1>
-<p>Welcome to your Bookdown</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>, <span class="st">&quot;HelpersMG&quot;</span>, <span class="st">&quot;readr&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<div id="training-objectives" class="section level2">
+<h2><span class="header-section-number">8.2</span> Training Objectives:</h2>
+<p>Upon completion of this module, the learner will be able to:</p>
+<ol style="list-style-type: decimal">
+<li>Understand the difference between the purpose of the two GitHub repositories that TeamPSD uses</li>
+<li>Identify what workflows are associated with each repository</li>
+</ol>
+</div>
+<div id="point-of-contact-stacey-park" class="section level2">
+<h2><span class="header-section-number">8.3</span> Point of Contact: Stacey Park</h2>
+</div>
+<div id="full-instructions" class="section level2">
+<h2><span class="header-section-number">8.4</span> Full Instructions</h2>
+<div id="mtl.how" class="section level3">
+<h3><span class="header-section-number">8.4.1</span> 1. mtl.how</h3>
+<p>The mtl.how repository is our home page for the <em>Modeling to Learn</em> 12 Session Program.
+The purpose of this repository is to serve as a home base for learners to access the links and resources they need to go through the <em>MTL</em> 12 Session Program.<br />
+While changes can be made through pull requests on this repository, they should occur on a “Release” schedule that is coordinated across workgroups and site intervention.
+However, if there are any errors in any of the resources (i.e. spelling typo), this should be changed immediately with a pull request, outside of the “Release” schedule.</p>
+<p>This repository is organized by the two arms of our grants:
+1. Modeling to Learn RED
+2. Modeling to Learn BLUE</p>
+<p>This repository includes:
+- Learner SEE guides
+- Facilitator SAY guides
+- Model files
+- Cheatsheets
+- Shortlinks to <em>MTL</em> sites
+- Community of Practice / Wiki</p>
+</div>
+<div id="mtl.howteampsd" class="section level3">
+<h3><span class="header-section-number">8.4.2</span> 2. mtl.how/teampsd</h3>
+<p>The mtl.how/teampsd repository is our “Works-In-Progress” repository.
+The purpose of this repository is to iterate on documents, discuss ideas, and serve as our file and workflow management system as we work to produce the best version of each product.</p>
+<p>This repository is organized (largely) by the different TeamPSD workgroups:
+1. .github/ISSUE_TEMPLATE - Includes the template for creating issues. <strong>Do not touch unless decisions were made to update this in a Workgroup Leads meeting</strong>.
+2. ees_workgroup
+3. issue_templates - Includes templates for creating other types of issues/cards that do not follow the main Issue Template (i.e. manuscript_tracker).
+4. model_workgroup
+5. mtl_facilitate_workgroup
+6. pubs_workgroup
+7. qual_workgroup
+8. quant_workgroup
+9. resources - Includes a broad range of TeamPSD resources, including training_guides, headshots, r help, etc.
+10. sim_ui_workgroup
+11. vapor</p>
+<p>This repository includes:
+- All of our work that can be public-facing including the files at mtl.how and more
+- Trackers Workflow (mtl.how/issues; mtl.how/features; mtl/how/documents; mtl.how/manuscripts)</p>
+<p><strong>Note: Both of our repositories are public and anyone can see any part of our workflow at any time.</strong></p>
 
+</div>
+</div>
+<div id="meeting-facilitation-and-management-on-lucid" class="section level2">
+<h2><span class="header-section-number">8.5</span> Meeting Facilitation and Management on Lucid</h2>
+<div id="starting-a-lucid-meeting" class="section level3">
+<h3><span class="header-section-number">8.5.1</span> Starting a Lucid Meeting</h3>
+<ul>
+<li><input type="checkbox" disabled="" />
+1. If you are starting/ending the meeting, always login using Lindsey’s account.</li>
+<li><input type="checkbox" disabled="" />
+2. Hit “Record” on the audio.</li>
+</ul>
+</div>
+<div id="during-a-lucid-meeting" class="section level3">
+<h3><span class="header-section-number">8.5.2</span> During a Lucid Meeting</h3>
+<ul>
+<li><input type="checkbox" disabled="" />
+If it can tracked in a GitHub issue, include all Decisions and Action Items in the relevant GitHub issue.</li>
+</ul>
+<p>Otherwise…
+- [ ] Track final decisions using the “Decisions” tag. It is not useful to track intermittent suggestions instead of the final decision as this is our record for folks who missed the meeting and for us to refer back to later
+- [ ] Use the “Issues” tag to note any issues brought up that we need to revisit later.
+- [ ] Use the "Action Item</p>
+</div>
+<div id="ending-a-lucid-meeting" class="section level3">
+<h3><span class="header-section-number">8.5.3</span> Ending a Lucid Meeting</h3>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+1. Before you end the meeting, double-check that no one else is still writing any notes.
+End the meeting.</p></li>
+<li><p><input type="checkbox" disabled="" />
+3. Re-read the meeting record and clean up notes. Make sure all notes are clear with headers and reflect final decisions and next steps indicating the “Who” “What” and “When”. Tag any “Decisions” or “Issues” using their respective tags. If any of the decisions relate to open GitHub issues, update the GitHub thread as well.</p></li>
+<li><p><input type="checkbox" disabled="" />
+2. Click “Publish” to Basecamp once you end the meeting.</p></li>
+<li><p><input type="checkbox" disabled="" />
+4. Click send out “Follow-Up” email. <strong>Note</strong>: If there is an accompanying mtl.how/live recording - 1) Backup the recording (instructions here), 2) Email the Lucid follow-up to only yourself, 3) Forward the Lucid follow-up using regular email to all attendees including the link to the backed-up recording to meeting attendees.</p></li>
+</ul>
+
+</div>
+</div>
+<div id="external-links-needed" class="section level2">
+<h2><span class="header-section-number">8.6</span> External links needed:</h2>
+<ol style="list-style-type: decimal">
+<li><a href="https://mtl.how/live" class="uri">https://mtl.how/live</a></li>
+<li></li>
+<li></li>
+</ol>
+</div>
+<div id="training-objectives" class="section level2">
+<h2><span class="header-section-number">8.7</span> Training Objectives:</h2>
+</div>
+<div id="point-of-contact-stacey-park" class="section level2">
+<h2><span class="header-section-number">8.8</span> Point of Contact: Stacey Park</h2>
+</div>
+<div id="full-instructions" class="section level2">
+<h2><span class="header-section-number">8.9</span> Full Instructions</h2>
+<ol style="list-style-type: decimal">
+<li>Login to mtl.how/live</li>
+</ol>
+<ul>
+<li>Type “mtl.how/live” in any search bar</li>
+<li>Enter as a guest</li>
+<li>Type in your name</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_live_1.gif" /></p>
+<ol start="2" style="list-style-type: decimal">
+<li>Download Adobe Connet</li>
+</ol>
+<ul>
+<li>You will only need to do this once.</li>
+<li>If you’re on your own computer, then you can pin it to the taskbar for easier future access.</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_live_2.gif" /></p>
+<ol start="3" style="list-style-type: decimal">
+<li>Join the Meeting</li>
+</ol>
+<ul>
+<li>The host will accept you into the meeting once it starts.</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_live_3.gif" /></p>
+<ol start="4" style="list-style-type: decimal">
+<li>Sharing Screens</li>
+</ol>
+<ul>
+<li>The host will promote you to “Presenter” as necessary</li>
+<li>Share screens using “Applications” instead of “Windows.” This will allow for a smoother sharing experience. Make sure you have no PHI or sensitive information open.</li>
+<li>Once you’re done, return to the main page and stop sharing.</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_live_4.gif" />
+<img src="https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_live_5.gif" /></p>
+
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-
-<a href="2-teampsd-guiding-principles.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="7-pull-requests-and-branches-management.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="9-mtl-howlive-login-as-host.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="assets/gitbook-2.6.7/js/app.min.js"></script>
