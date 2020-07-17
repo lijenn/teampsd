@@ -4,14 +4,12 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
-    download: [pdf, epub, mobi]
+    download: [pdf, epub]
     edit: https://github.com/lijenn/teampsdprototype/edit/gh-pages/%s
     sharing:
       github: yes
 bookdown::html_book:
   css: toc.css
-bookdown::html_chapters:
-  css: [css/style.css, css/toc.css]
 bookdown::pdf_book:
   includes:
     in_header: latex/preamble.tex
