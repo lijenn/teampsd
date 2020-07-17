@@ -10,7 +10,7 @@ name: renderbook
 jobs:
   bookdown:
     name: Render-Book
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
         with:
@@ -19,6 +19,8 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","HelpersMG","readr","tinytex"))'
+      - name : install tinytex
+        run: sudo apt-get install texlive-xetex
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
       - uses: actions/upload-artifact@v1
