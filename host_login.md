@@ -1,4 +1,5 @@
 # mtl.how/live Login as Host
+
 ## External links needed:
 1. mtl.how/live
 
@@ -6,7 +7,7 @@
 Upon completion of this module, the learner will be able to:
 
 1. Manage mtl.how/live as a Host
-2. Record a meeting on mtl.how/live 
+2. Record a meeting on mtl.how/live
 
 ## Point of Contact: Stacey Park
 
@@ -60,18 +61,17 @@ In this pod, you can also change the status of any attendee by hovering over the
 
 ## Training Record:
 #### Practice
-- [ ] Exercise 1: Log out and log back in as a Host. Once you have done so, take turns changing the status of another trainee to "Participant". 
+- [ ] Exercise 1: Log out and log back in as a Host. Once you have done so, take turns changing the status of another trainee to "Participant".
 
-Completed on: ________________ with _________________________ 
+Completed on: ________________ with _________________________
 
 - [ ] Exercise 2: Record the meeting while you do Exercise 1.     
 Completed on: ________________ with _________________________  
 
-#### Supervised 
+#### Supervised
 - [ ] Supervised 1: (describe task here)        
 Completed on: ________________ with _________________________  
 
 - [ ] Supervised 2: (describe task here)        
 Completed on: ________________ with _________________________  
 
-
