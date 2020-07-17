@@ -8,6 +8,5 @@ bookdown::gitbook:
     edit: https://github.com/lijenn/teampsdprototype/edit/gh-pages/%s
     sharing:
       github: yes
-  info: yes
 bookdown::html_book:
   css: toc.css
