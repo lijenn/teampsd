@@ -1,4 +1,4 @@
-## Team PSD Emails 
+# Team PSD Emails 
 
 - [ ] 1.	Assume everyone you’re communicating with is smarter than you and cares more than you and is busier than you.
 
@@ -9,4 +9,3 @@
 - [ ] 4.	Use your subject line to tell the recipient what your email is going to say.
 
 - [ ] 5.	Email during business hours. Schedule if necessary. East Coast end of tour is our 1:30PM.
-

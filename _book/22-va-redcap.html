@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team PSD Manual</title>
+  <title>Chapter 22 VA REDCap | Team PSD Manual</title>
   <meta name="description" content="This is the Team PSD one stop shop." />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Team PSD Manual" />
+  <meta property="og:title" content="Chapter 22 VA REDCap | Team PSD Manual" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Team PSD Manual" />
+  <meta name="twitter:title" content="Chapter 22 VA REDCap | Team PSD Manual" />
   
   <meta name="twitter:description" content="This is the Team PSD one stop shop." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
+<link rel="prev" href="21-compiling-from-source-on-mac.html"/>
 
-<link rel="next" href="2-teampsd-guiding-principles.html"/>
 <script src="assets/jquery-2.2.3/jquery.min.js"></script>
 <link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -345,27 +345,161 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Team PSD Manual</h1>
-<p class="author"><em>Team PSD</em></p>
-<p class="date"><em>2020-07-17</em></p>
+<div id="va-redcap" class="section level1">
+<h1><span class="header-section-number">Chapter 22</span> VA REDCap</h1>
+<div id="external-links-needed" class="section level2">
+<h2><span class="header-section-number">22.1</span> External links needed:</h2>
+<ol style="list-style-type: decimal">
+<li><a href="https://www.project-redcap.org/">Main REDCap platform</a></li>
+<li><a href="https://vhacdwweb05.vha.med.va.gov/index.php?action=myprojects">VA REDCap</a></li>
+<li><a href="https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=redcap_overview03.mp4&amp;title=Detailed+Overview+of+REDCap+%2814+min%29&amp;text=This+14-minute+video+provides+a+thorough+overview+of+REDCap+and+much+of+its+functionality.+%0A%09%09%09%09%09%09%09%09%09This+video+is+an+excellent+place+to+begin+learning+about+REDCap+and+what+it+is+capable+of.&amp;referer=REDCAP_PUBLIC">Overview of REDCap - Video</a></li>
+<li><a href="https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=online_designer01.flv&amp;title=The+Online+Designer+%285+min%29&amp;text=&amp;referer=REDCAP_PUBLIC">Online Instrument Designer - Video</a></li>
+</ol>
 </div>
-<div id="preface" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Preface</h1>
-<p>Welcome to your Bookdown</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>, <span class="st">&quot;HelpersMG&quot;</span>, <span class="st">&quot;readr&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<div id="training-objectives" class="section level2">
+<h2><span class="header-section-number">22.2</span> Training Objectives:</h2>
+<p>By the end of this training, learners will be able to:
+1. Create a new project with appropriate titles, purpose, and template
+2. Understand the different types of user roles and their privileges
+3. Create REDCap accounts for new users
+4. Use survey queue for creating a logic where all users can use a single link but still get to their individual survey</p>
+</div>
+<div id="point-of-contact-stacey-park-platform-manager" class="section level2">
+<h2><span class="header-section-number">22.3</span> Point of Contact: Stacey Park, Platform Manager</h2>
+</div>
+<div id="full-instructions" class="section level2">
+<h2><span class="header-section-number">22.4</span> Full Instructions</h2>
+<div id="general-overview" class="section level3">
+<h3><span class="header-section-number">22.4.1</span> General Overview</h3>
+<ol style="list-style-type: decimal">
+<li>What is REDCap?</li>
+</ol>
+<ul>
+<li>REDCap or Research Electronic Data Capture, is a secure web application for building and managing online surveys and databases. REDCap was originally created by a small team at Vanderbilt, and has since expanded across thousands of non-profit and government organizations. Each system is independently maintained and supported - we specifically are using the VA REDCap. You can check out FAQ’s, videos, etc. at the main REDCap website <a href="https://www.project-redcap.org/">here</a>.</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>When does TeamPSD use REDCAP?</li>
+</ol>
+<ul>
+<li>We use it in the <em>Modeling to Learn</em> program at Session 4 for the <em>Modeling to Learn</em> Menu (mtl.how/menu) that assesses team needs and priorities to pick an <em>MTL</em> module to use starting Session 5</li>
+<li>Research surveys from measures in the grants that are taken at baseline and 6 months. Remember, these surveys are <strong>voluntary and can be stopped at any time</strong>.</li>
+</ul>
+<div id="learning-check" class="section level4">
+<h4><span class="header-section-number">22.4.1.1</span> Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li>What are TeamPSD’s varying uses of REDCap? How do they align against timelines with the <em>Modeling to Learn</em> 12 session plan?</li>
+<li>What audience is each use geared towards?</li>
+</ol>
+</div>
+</div>
+<div id="login" class="section level3">
+<h3><span class="header-section-number">22.4.2</span> Login</h3>
+<ol style="list-style-type: decimal">
+<li>Go to the VA RedCAP link: <a href="https://vhacdwweb05.vha.med.va.gov/index.php?action=myprojects" class="uri">https://vhacdwweb05.vha.med.va.gov/index.php?action=myprojects</a></li>
+</ol>
+<ul>
+<li>Note: This is a VA webiste and is only available within the VA firewall.</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Username will be your VA username/alias available in the GAL in Outlook.</li>
+<li>If you don’t have an account, or need to create a new account for other folks, go <a href="https://vhacdwweb05.vha.med.va.gov/index.php?action=myprojects">here</a>.</li>
+</ol>
+<ul>
+<li>Enter YOUR VA email address.</li>
+<li>Check the box “Creating new VA REDCap accounts.”</li>
+<li>Download the .csv that is attached and fill it out with the names, VA emails, and VA usernames for accounts you are requesting and upload it back to the form.</li>
+<li>Hit “Submit.”</li>
+</ul>
+</div>
+<div id="overview-of-redcap" class="section level3">
+<h3><span class="header-section-number">22.4.3</span> Overview of REDCap</h3>
+<p>This <a href="https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=redcap_overview03.mp4&amp;title=Detailed+Overview+of+REDCap+%2814+min%29&amp;text=This+14-minute+video+provides+a+thorough+overview+of+REDCap+and+much+of+its+functionality.+%0A%09%09%09%09%09%09%09%09%09This+video+is+an+excellent+place+to+begin+learning+about+REDCap+and+what+it+is+capable+of.&amp;referer=REDCAP_PUBLIC">overview video of REDCap</a> video includes how to create new projects in REDCap and how to edit records.</p>
+<div id="learning-check-1" class="section level4">
+<h4><span class="header-section-number">22.4.3.1</span> Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li>Our team will not typically fill in survey records for our participants. Based on what we learned about our TeamPSD’s survey uses, why might this be the case?</li>
+<li>While we typically wouldn’t enter/edit records, in what situation might an HQ member enter data in a record <em>instead</em> of the learner?</li>
+<li>A learner has a question about their survey data, where do you go to check or edit their record?</li>
+<li>Can you create more than one instrument in the same project? If so, how?</li>
+<li>How do you add new users to a project? (More detailed distinctions between the user rights and roles is covered further down in the this training).</li>
+<li>Where do you go to view records? What types of data views can you access here? How do you export data?</li>
+<li>(Note: <strong>DO NOT</strong> put your fake project in production.) Once you put your project in production, how do you make changes?</li>
+</ol>
+</div>
+</div>
+<div id="how-to-create-and-work-with-instruments" class="section level3">
+<h3><span class="header-section-number">22.4.4</span> How to Create and Work with Instruments</h3>
+<p>This <a href="https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=intro_instrument_dev.mp4&amp;title=Introduction+to+Instrument+Development+%286+min%29&amp;text=&amp;referer=REDCAP_PUBLIC">introduction to instrument development</a> and <a href="https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=online_designer01.flv&amp;title=The+Online+Designer+%285+min%29&amp;text=&amp;referer=REDCAP_PUBLIC">online instrument designer view</a> details how to use “instruments” in REDCap.</p>
+<div id="learning-check-2" class="section level4">
+<h4><span class="header-section-number">22.4.4.1</span> Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li>Where do you click to build <strong>new</strong> instruments? Where do you click to view <strong>existing</strong> instruments?</li>
+<li>How do you move, add, and edit instrument fields in the online designer (what buttons do you click or clicking do you do)?</li>
+<li>Where do you go to view the status of each record? What do each of the colors mean on this dashboard?</li>
+<li>What is another way you can update instruments fields?</li>
+<li>Where do you go to view the mode of the project (development, production, etc.)?</li>
+<li>(Go to second video)</li>
+<li>How do you enable/disable, rename, or delete surveys?</li>
+<li>What are the five buttons on each field instrument and what are their functions?</li>
+<li><strong>STOP</strong> at timestamp 5:00 minutes on the second video.</li>
+<li><strong><em>Within</em></strong> a survey instrument, click on “Survey Settings.” What customization options do you see here and where can we apply our TeamPSD style here?</li>
+</ol>
+</div>
+</div>
+<div id="managing-design-automation-and-participant-management" class="section level3">
+<h3><span class="header-section-number">22.4.5</span> Managing Design, Automation, and Participant Management</h3>
+<p>Follow <a href="https://www.mc.vanderbilt.edu/crc/workshop_files/2014-09-19.pdf">this PDF</a> through for a walkthrough of different customization options for designing and queuing instruments, managing invitations and participants.</p>
+<div id="learning-check-3" class="section level4">
+<h4><span class="header-section-number">22.4.5.1</span> Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li><strong>SKIP</strong> the “Design Options, Notifications, Automated Invitations” section.</li>
+<li>How will we use the survey queuing function with our <em>Modeling to Learn</em> teams and why is it important? What can happen if we get this logic incorrect?</li>
+<li>On the “Public Survey Link” page, where can you find the link to the survey? Since we use co-branded links, what is the next step to ensure that the co-branded link goes to the correct page?</li>
+<li>Why might we want to use the login or access code function?</li>
+</ol>
+</div>
+</div>
+<div id="user-rights-roles" class="section level3">
+<h3><span class="header-section-number">22.4.6</span> User Rights &amp; Roles</h3>
+<p>Review <a href="https://cri.uchicago.edu/wp-content/uploads/2015/12/REDCap-User-Rights-Best-Practices.pdf">this PDF</a> that outlines the rights and abilities for different types of access by role to help make decisions on what roles team members should be assigned.</p>
+<div id="learning-check-4" class="section level4">
+<h4><span class="header-section-number">22.4.6.1</span> Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li>What are the groups of team members that will need access to VA REDCap? How will they interact with the platform and what user roles will be most appropriate?</li>
+</ol>
+</div>
+<div id="overall-learning-check" class="section level4">
+<h4><span class="header-section-number">22.4.6.2</span> OVERALL Learning Check:</h4>
+<ol style="list-style-type: decimal">
+<li>Define each of the words below and what vocabulary they map to in our <em>Modeling to Learn</em> or TeamPSD language (i.e. Users in REDCap = HQ or Team Members in TeamPSD):</li>
+</ol>
+<ul>
+<li>Users</li>
+<li>Projects</li>
+<li>Instruments</li>
+<li>Participants</li>
+<li>Queue</li>
+<li>Records</li>
+</ul>
+</div>
+<div id="common-mistakes" class="section level4">
+<h4><span class="header-section-number">22.4.6.3</span> Common Mistakes:</h4>
+<ol style="list-style-type: decimal">
+<li><p>If you’re clicking through any of the surveys to test them, make sure to delete your records afterwards so it does not affect our data reports and analysis.</p></li>
+<li><p>Are you or someone unable to see specific menu options that they typically expect to see? Check the user roles.</p></li>
+</ol>
 
+</div>
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
+<a href="21-compiling-from-source-on-mac.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-<a href="2-teampsd-guiding-principles.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="assets/gitbook-2.6.7/js/app.min.js"></script>

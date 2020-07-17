@@ -1,4 +1,4 @@
-## TeamPSD TeamTime Report Checklist
+# TeamPSD TeamTime Report Checklist
 
 
 ### Create a new tt_report document:
@@ -6,11 +6,11 @@
  - [ ] Copy the last tt_report_## folder.
  - [ ] Update the report number to the next number in the sequence for both the folder and the word doc inside it.
  - [ ] Open the word doc.
- 
+
  ### Within the Word Doc, in order from top to bottom:
  - [ ] Update the report number under the team time logo.
  - [ ] Place weekly announcements at the top  of the report within the first box of text, including any updates relevant across the team with screenshots and links if necessary. Make sure that _MTL_ or _Modeling to Learn_ is in italics, consistent with TeamPSD style, throughout the report.
- - [ ] For mtl.how/zenhub replace the existing Epic information (e.g. “april” priority is underway and ends 4/24) with current information. 
+ - [ ] For mtl.how/zenhub replace the existing Epic information (e.g. “april” priority is underway and ends 4/24) with current information.
    - For screenshots, replace the existing ones with new ones for the Control Chart and Burndown Report.
    - For the Control Chart
      - Go to mtl.how/zenhub
@@ -23,7 +23,7 @@
    - For the Burndown Report
      - Go to mtl.how/zenhub
      - Hover over the left-hand menu.
-     - Click on Reports > Burndown Report. 
+     - Click on Reports > Burndown Report.
      - At the top, select the **current milestone**.
      - For the date range, set the "Start" and "Due by" dates to align with the current epic by using the "Start" and "End date found on the **Roadmap**.
      - On the upper right hand side, double check that "Closed" (default) is selected for the "Burn Pipeline".
@@ -34,8 +34,8 @@
      - Paste the link into "Address".
      - Click on "Ok".
  - [ ] For mtl.how/lucid, take a screenshot of the next two weeks from Lindsey's team Lucid calendar. Make sure to ping all Workgroup Leads regarding updates and changes prior to taking this screenshot. Replace the existing screenshot with the new one. Ensure that any discrepancies or duplicate meetings are addressed by workgroup leads and reflected in the calendar.
- - [ ] For mtl.how/bugs, mtl.how/features, mtl.how/manuscripts, and mtl.how/documents, go to each of these shortlinks and screenshot the trackers. Replace the existing screenshots with the new ones. 
-   - Make sure the text for each of the short links is hyperlinked to the matching link. 
+ - [ ] For mtl.how/bugs, mtl.how/features, mtl.how/manuscripts, and mtl.how/documents, go to each of these shortlinks and screenshot the trackers. Replace the existing screenshots with the new ones.
+   - Make sure the text for each of the short links is hyperlinked to the matching link.
    - All the screenshots should show the first 5 columns of each tracker (except the Bug tracker, which should show all 6 columns). To increase visibility take screenshots in full-screen mode. Screenshots for each of the trackers should specifically show these columns:
      - Bug tracker - needs_triage to closed.
      - Features tracker - work_breakdown to functional_testing.
@@ -43,18 +43,18 @@
      - Documents tracker - describe_learners to depend_products.
    - Make sure the screenshots for each of the trackers are hyperlinked to their matching trackers as well.
    - Screenshots should be large enough that the text is readable and meaningful.
- 
+
 ### Copy to Outlook:
 - [ ] Ctrl + A to select everything in the document
 - [ ] Ctrl + C to copy
 - [ ] Open a new Outlook email and in the body, Ctrl + V to paste your tt report
 - [ ] Double check:
   - All fonts are in Myriad Pro (or the most similar sans-serif font)
-  - All colors are consistent with TeamPSD style which can be found [here](https://github.com/lzim/teampsd/blob/teampsd_style/colors.md). 
+  - All colors are consistent with TeamPSD style which can be found [here](https://github.com/lzim/teampsd/blob/teampsd_style/colors.md).
     - We use VA Light Blue for linked text, icons, and the announcements text box. We use VA Light Red for the arrows that separate each section.
   - All items are aligned and not covering each other, or off the page.
   - _Modeling to Learn_ or _MTL_ is always italicized.
-  
+
 ### Setup Recipients & Subject Line:
 - [ ] In the "To" line of the email, include two groups:
   - TeamPSD VA emails listserv (if you need this address, ask an HQ member)
@@ -63,7 +63,7 @@
 - [ ] In the "Subject Line," start with "[tt###_teampsd]" followed by a one-line summary of the important updates.
   - "###" = the three digit report number
   - Including this header in the subject line helps people find the report later, and distinguishes this TeamTime report as the internal TeamPSD newsletter version instead of the version for the _Modeling to Learn_ teams.
-  
+
 ### Send Report
 - [ ] Send report by:
   - Using scheduled delivery
@@ -85,5 +85,4 @@
   - In "Name," add a name for your contact group i.e. teampsd_non_va. This is what you will search for later when you add the entire group as recipients to an email.
   - Click on "New Contact Group" > "Add Members"
   - Add the non-VA email addresses and click "Save & Close"
-  
-
+

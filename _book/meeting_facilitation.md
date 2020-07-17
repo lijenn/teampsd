@@ -1,4 +1,4 @@
-## Meeting Facilitation and Management on Lucid
+# Meeting Facilitation and Management on Lucid
 
 ### Starting a Lucid Meeting
 - [ ] 1. If you are starting/ending the meeting, always login using Lindsey's account.
@@ -21,4 +21,3 @@ End the meeting.
 - [ ] 2. Click "Publish" to Basecamp once you end the meeting.
 
 - [ ] 4. Click send out "Follow-Up" email. **Note**: If there is an accompanying mtl.how/live recording - 1) Backup the recording (instructions here), 2) Email the Lucid follow-up to only yourself, 3) Forward the Lucid follow-up using regular email to all attendees including the link to the backed-up recording to meeting attendees.
-

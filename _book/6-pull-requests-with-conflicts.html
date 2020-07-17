@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Team PSD Manual</title>
+  <title>Chapter 6 Pull Requests with Conflicts | Team PSD Manual</title>
   <meta name="description" content="This is the Team PSD one stop shop." />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Team PSD Manual" />
+  <meta property="og:title" content="Chapter 6 Pull Requests with Conflicts | Team PSD Manual" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Team PSD Manual" />
+  <meta name="twitter:title" content="Chapter 6 Pull Requests with Conflicts | Team PSD Manual" />
   
   <meta name="twitter:description" content="This is the Team PSD one stop shop." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="2-teampsd-guiding-principles.html"/>
+<link rel="prev" href="5-issues-and-trackers-management.html"/>
+<link rel="next" href="7-pull-requests-and-branches-management.html"/>
 <script src="assets/jquery-2.2.3/jquery.min.js"></script>
 <link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -345,18 +345,28 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Team PSD Manual</h1>
-<p class="author"><em>Team PSD</em></p>
-<p class="date"><em>2020-07-17</em></p>
-</div>
-<div id="preface" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Preface</h1>
-<p>Welcome to your Bookdown</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>, <span class="st">&quot;HelpersMG&quot;</span>, <span class="st">&quot;readr&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<div id="pull-requests-with-conflicts" class="section level1">
+<h1><span class="header-section-number">Chapter 6</span> Pull Requests with Conflicts</h1>
+<p>In this example, I manually resolved conflicts in two files <em>by accepting all the text in order to avoid any possible deletion of work across the team</em>.</p>
+<p><strong>THE TWO FILES:</strong>
+<strong>1. mtl_facilitate_workgroup/mtl_facilitate_pilot/day2/session3_mutual learning_activity.rmd</strong>
+<strong>2. mtl_facilitate_workgroup/mtl_facilitate_pilot/day2/session6_in_session_activity.rmd</strong></p>
+<p><em>NOTE: I decided to keep all text to avoid loss of work.</em></p>
+<p><strong>1. I could see I was 26 commits ahead, and 42 commits behind master on my lzim branch:</strong>
+<img src="https://user-images.githubusercontent.com/7454688/44961426-efd05b80-aec5-11e8-8554-45dc39ac6115.png" alt="screen shot 2018-09-02 at 2 59 46 pm" /></p>
+<ol start="2" style="list-style-type: decimal">
+<li><p>I selected <strong>compare and pull request</strong>, to start the pull request and noted the changes I made on my branch.
+<img src="https://user-images.githubusercontent.com/7454688/44961427-efd05b80-aec5-11e8-9420-c4c8942ef49b.png" alt="screen shot 2018-09-02 at 3 07 46 pm" /></p></li>
+<li><p>I received this notification that my branch had conflicts to resolve. I clicked the <strong>blue link</strong> to use the <strong>web editer</strong> to resolve conflicts.
+<img src="https://user-images.githubusercontent.com/7454688/44961428-f068f200-aec5-11e8-86ac-dab84c6bbfc1.png" alt="screen shot 2018-09-02 at 3 07 56 pm" /></p></li>
+<li><p>The web editor showed me two conflicts in one file, and one conflict in the other <strong>See the files listed on the left, and the red ‘conflicts’ text on the right. I can toggle to view the text itself</strong>
+<img src="https://user-images.githubusercontent.com/7454688/44961429-f068f200-aec5-11e8-992a-68ae6213e31a.png" alt="screen shot 2018-09-02 at 3 08 06 pm" /></p></li>
+<li><p>Googling for help on this showed me that <strong>I should manually edit to the text I want between the two files.</strong> When I <strong>delete the lines &lt;&lt;&lt;&lt;&lt;&lt;&lt; master</strong> GitHub knows it has been reviewed. And, then I can <strong>click the button on the upper right ‘resolve conflicts’</strong>
+<img src="https://cloud.githubusercontent.com/assets/7321362/21116820/fd64b010-c06b-11e6-9dd3-a827e299c5bf.gif" /></p></li>
+<li><p>The differences are accepted by by deleting the <strong>&lt;&lt;&lt;&lt;&lt;&lt;&lt; master</strong> text. And I see the <strong>green check mark on the left</strong> and and so I select the <strong>green ‘commit merge’</strong> button.
+<img src="https://user-images.githubusercontent.com/7454688/44961431-f068f200-aec5-11e8-8ccf-bf6c00cff82e.png" alt="screen shot 2018-09-02 at 3 34 02 pm" /></p></li>
+<li><p>Find additional help and details on <strong>deleting the conflict markers &lt;&lt;&lt;&lt;&lt;&lt;&lt;, =======, &gt;&gt;&gt;&gt;&gt;&gt;&gt;</strong> here: <a href="https://help.github.com/articles/resolving-a-merge-conflict-on-github/" class="uri">https://help.github.com/articles/resolving-a-merge-conflict-on-github/</a></p></li>
+</ol>
 
 </div>
             </section>
@@ -364,8 +374,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           </div>
         </div>
       </div>
-
-<a href="2-teampsd-guiding-principles.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="5-issues-and-trackers-management.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="7-pull-requests-and-branches-management.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="assets/gitbook-2.6.7/js/app.min.js"></script>
