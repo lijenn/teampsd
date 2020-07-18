@@ -10,5 +10,4 @@ bookdown::gitbook:
       github: yes
 bookdown::pdf_book:
   keep_tex: yes
-  latex_engine: xelatex
 
