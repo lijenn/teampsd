@@ -23,6 +23,7 @@ jobs:
         run: |
              brew cask install basictex
              Rscript -e 'tinytex::install_tinytex()'
+             Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
       - uses: actions/upload-artifact@v1
