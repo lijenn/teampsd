@@ -20,7 +20,9 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","HelpersMG","readr","tinytex"))'
       - name : install tinytex
-        run: brew cask install basictex
+        run: |
+             brew cask install basictex
+             Rscript -e 'tinytex::install_tinytex()'
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
       - uses: actions/upload-artifact@v1
