@@ -9,6 +9,6 @@ bookdown::gitbook:
     sharing:
       github: yes
 bookdown::pdf_book:
-  keep_tex: yes
+  template: preamble.tex
   latex_engine: xelatex
   pandoc_args: ["--extract-media", "."]
