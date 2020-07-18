@@ -20,7 +20,7 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","HelpersMG","readr","tinytex"))'
       - name : install tinytex
-        run: sudo apt-get install texlive-xetex
+        run: brew install texlive-xetex
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
       - uses: actions/upload-artifact@v1
