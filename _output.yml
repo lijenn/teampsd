@@ -10,4 +10,4 @@ bookdown::gitbook:
       github: yes
 bookdown::pdf_book:
   keep_tex: yes
-
+  pandoc_args: ["--extract-media", "."]
