@@ -608,8 +608,6 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 - | - | [TT report template](https://raw.githubusercontent.com/lzim/teampsd/master/resources/training_guides/emails_outlook/tt_teampsd.md)
 
-- | - | [TT report template 2](https://raw.githubusercontent.com/lzim/teampsd/master/resources/training_guides/emails_outlook/tt_teampsd.md)
-
 
 
 
