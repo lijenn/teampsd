@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 3 TeamPSD Design Workshop Manual | Team PSD Manual</title>
+  <meta name="description" content="This is the Team PSD one stop shop." />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 3 TeamPSD Design Workshop Manual | Team PSD Manual" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is the Team PSD one stop shop." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 3 TeamPSD Design Workshop Manual | Team PSD Manual" />
+  
+  <meta name="twitter:description" content="This is the Team PSD one stop shop." />
+  
+
+<meta name="author" content="Team PSD" />
+
+
+<meta name="date" content="2020-07-21" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="2-teampsd-guiding-principles.html"/>
+
+<script src="assets/jquery-2.2.3/jquery.min.js"></script>
+<link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="assets/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+<style type="text/css">
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Preface</a></li>
+<li class="chapter" data-level="2" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html"><i class="fa fa-check"></i><b>2</b> TeamPSD Guiding Principles</a><ul>
+<li class="chapter" data-level="2.0.1" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html#we-value-an-open-source-transparent-reproducible-workflow."><i class="fa fa-check"></i><b>2.0.1</b> 1. We value an open-source, transparent &amp; reproducible workflow.</a></li>
+<li class="chapter" data-level="2.0.2" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html#our-work-has-high-visibility."><i class="fa fa-check"></i><b>2.0.2</b> 2. Our work has high visibility.</a></li>
+<li class="chapter" data-level="2.0.3" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html#any-time-saved-is-team-time."><i class="fa fa-check"></i><b>2.0.3</b> 3. Any time saved is team time.</a></li>
+<li class="chapter" data-level="2.0.4" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html#use-effective-communication-across-all-types-of-communication-including-emails-github-lucid-etc.."><i class="fa fa-check"></i><b>2.0.4</b> 4. Use effective communication (across all types of communication including emails, GitHub, Lucid, etc.).</a></li>
+<li class="chapter" data-level="2.0.5" data-path="2-teampsd-guiding-principles.html"><a href="2-teampsd-guiding-principles.html#use-active-listening-skills-to-ensure-understanding-and-accurate-tracking."><i class="fa fa-check"></i><b>2.0.5</b> 5. Use active listening skills to ensure understanding and accurate tracking.</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html"><i class="fa fa-check"></i><b>3</b> TeamPSD Design Workshop Manual</a><ul>
+<li class="chapter" data-level="3.1" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#day-1-design-thinking"><i class="fa fa-check"></i><b>3.1</b> Day 1: Design Thinking</a><ul>
+<li class="chapter" data-level="3.1.1" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#empathize---to-gain-an-empathic-understanding-of-the-need-or-problem-you-are-trying-to-solve-in-terms-of-people-processes-that-set-aside-individual-assumptions-to-get-insight-into-the-need."><i class="fa fa-check"></i><b>3.1.1</b> 1. <strong>Empathize</strong> - To gain an empathic understanding of the need or problem you are trying to solve in terms of people, <strong>processes</strong> that set aside individual <strong>assumptions</strong> to get insight into the need.</a></li>
+<li class="chapter" data-level="3.1.2" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#define-the-problem---this-is-when-we-synthesize-observations-into-holistic-point-of-view-pov.-goal-is-to-make-linkages-so-that-we-define-the-right-problem-to-address."><i class="fa fa-check"></i><b>3.1.2</b> 2. <strong>Define the problem</strong> - This is when we <strong>synthesize</strong> observations into holistic <strong>point of view</strong> (POV). <strong>Goal is to make linkages, so that we define the right problem to address.</strong></a></li>
+<li class="chapter" data-level="3.1.3" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#ideate---expand-the-problem-space-by-identifying-and-testing-out-elements-that-would-circumvent-problems."><i class="fa fa-check"></i><b>3.1.3</b> 3. <strong>Ideate</strong> - Expand the problem space by identifying and testing out elements that would circumvent problems.</a></li>
+<li class="chapter" data-level="3.1.4" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#prototype---inexpensive-scaled-down-version-with-the-key-features-to-investigate-the-problem-and-solution.-goal-is-to-identify-the-best-possible-solution."><i class="fa fa-check"></i><b>3.1.4</b> 4. <strong>Prototype</strong> - inexpensive, scaled down version with the <strong>key features</strong> to investigate the problem and solution. <strong>Goal is to identify the best possible solution</strong>.</a></li>
+<li class="chapter" data-level="3.1.5" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#test---test-your-prototype-with-the-personas-in-question."><i class="fa fa-check"></i><b>3.1.5</b> 5. <strong>Test</strong> - test your prototype with the personas in question.</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#day-2-team-psd-manual-workshop-artifacts"><i class="fa fa-check"></i><b>3.2</b> Day 2: Team PSD Manual Workshop Artifacts</a></li>
+<li class="chapter" data-level="3.3" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#day-3-persona-prototypes"><i class="fa fa-check"></i><b>3.3</b> Day 3: Persona Prototypes</a></li>
+<li class="chapter" data-level="3.4" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#day-4-team-psd-2.0"><i class="fa fa-check"></i><b>3.4</b> Day 4: Team PSD 2.0</a></li>
+<li class="chapter" data-level="3.5" data-path="3-teampsd-design-workshop-manual.html"><a href="3-teampsd-design-workshop-manual.html#day-5-team-psd-personas-and-minimum-viable-products-mvps"><i class="fa fa-check"></i><b>3.5</b> Day 5: Team PSD Personas and Minimum Viable Products (MVPs)</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Team PSD Manual</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="teampsd-design-workshop-manual" class="section level1">
+<h1><span class="header-section-number">Chapter 3</span> TeamPSD Design Workshop Manual</h1>
+<div id="day-1-design-thinking" class="section level2">
+<h2><span class="header-section-number">3.1</span> Day 1: Design Thinking</h2>
+<p>Design Thinking - Team PSD Manual (and all that it includes):
+- Using Good UX (user-experience) Design…
+- The Sciences of the Artificial, Herbert Simon
+- Hasso-Plattner Institute of Design at Stanford (d.school).
+- Using resources from the non-profit Interaction Design foundation (interaction-design.org)</p>
+<p><a href="#DontLink"><img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/design/design_workshop_manual/design_thinking.jpg"></a></p>
+<div id="empathize---to-gain-an-empathic-understanding-of-the-need-or-problem-you-are-trying-to-solve-in-terms-of-people-processes-that-set-aside-individual-assumptions-to-get-insight-into-the-need." class="section level3">
+<h3><span class="header-section-number">3.1.1</span> 1. <strong>Empathize</strong> - To gain an empathic understanding of the need or problem you are trying to solve in terms of people, <strong>processes</strong> that set aside individual <strong>assumptions</strong> to get insight into the need.</h3>
+<ul>
+<li><strong>What?</strong> Details of what to do (what happened).
+<ul>
+<li>This is when we <strong>analyze</strong> observe and document details that relate to
+users.</li>
+</ul></li>
+<li><strong>How?</strong> How the person does it (effort, etc.)</li>
+<li><strong>Why?</strong> Motivations/purpose (test this out…)</li>
+</ul>
+<p><strong>Exercises for assumptions</strong> (remember: everything is a perspective):
+a. <strong>List assumptions</strong>
+b. <strong>Ask</strong>: How could this not be true?
+c. <strong>Ask</strong>: What if we could do this twice as well in half the time?</p>
+</div>
+<div id="define-the-problem---this-is-when-we-synthesize-observations-into-holistic-point-of-view-pov.-goal-is-to-make-linkages-so-that-we-define-the-right-problem-to-address." class="section level3">
+<h3><span class="header-section-number">3.1.2</span> 2. <strong>Define the problem</strong> - This is when we <strong>synthesize</strong> observations into holistic <strong>point of view</strong> (POV). <strong>Goal is to make linkages, so that we define the right problem to address.</strong></h3>
+<p>[Example POV: Busy, nationally distributed, cross-functional team of scientists has many partners, is about to hire more people, leads a national participatory system dynamics simulation learning program in, and is gaining increasing national and international interest in partnership HMW…]</p>
+<p>2a. <strong>A problem statement: Focuses on</strong>
+- <strong>Specific peopleʼs needs</strong> (not the technology or specs),
+- <strong>Value and insights for the project</strong> (not the technical requirements), yet it is…
+- …narrow enough to be <strong>managed within our constraints</strong></p>
+<p><strong>Exercises for definitions with how-why/why-how laddering</strong> (a variant of <strong>5 whys</strong> principle):
+a. Asking <strong>“Why?”</strong> Explores to understand <strong>root causes</strong> (abstract, more common across people)
+b. …then <strong>“How might we?”</strong> to get to a <strong>specific</strong> problem/challenge we can solve (concrete)</p>
+<p><strong>Part I - The HMW Brainstorm…HMW</strong>
+- use the efficiency of GitHub [good]
+- remove the [bad] steep learning curve
+- integrate with existing GH norms the best part [explore the opposite]
+- remove reliance on training [question the assumption]
+- go after adjectives [make it easy, instead of hard]
+- use code instead of by hand [leverage unexpected resource]
+- enable self-directed learning like “Googling” [analogy from need/context]
+- attract help from Forio, MITRE, VA to solve this [shift POV against the challenge]
+- get it up and running now [shift a status quo]
+- divvy up chunks for each workgroup [break up POV]</p>
+<p><strong>Part II</strong>
+1. “<strong>Why</strong> do we need to integrate our manuals, workflows and processes on GitHub to achieve Team PSD values? (if start with Why, phrase as a need and make it meaningful.”</p>
+<p>Because…</p>
+<ol start="2" style="list-style-type: decimal">
+<li>“<strong>How</strong> do we use manuals, workflows and process on GitHub now?”</li>
+</ol>
+<ul>
+<li>[describe]</li>
+<li><strong>“Why?”</strong></li>
+<li><strong>“Why?”</strong></li>
+</ul>
+<ol start="3" style="list-style-type: decimal">
+<li>What what was most <strong>surprising</strong>?</li>
+<li>What would we have <strong>missed</strong> if we hadnʼt asked why?</li>
+</ol>
+</div>
+<div id="ideate---expand-the-problem-space-by-identifying-and-testing-out-elements-that-would-circumvent-problems." class="section level3">
+<h3><span class="header-section-number">3.1.3</span> 3. <strong>Ideate</strong> - Expand the problem space by identifying and testing out elements that would circumvent problems.</h3>
+<ul>
+<li>time-limit</li>
+<li>quantity over quality</li>
+<li>no distractions</li>
+<li>no bad ideas</li>
+</ul>
+<p><strong>Part I.</strong>
+<strong>SCAMPER</strong> - Review our <strong>existing</strong> Team PSD workgroups/workflow (SOP), platform &amp; processes, resources and review them through seven <strong>lenses</strong>.
+- <strong>Substitute</strong> to improve - Can I substitute (replace) people, rules, names, processes?
+- <strong>Combine</strong> to achieve something different - Can I merge, maximize…?
+- <strong>Adapt</strong> to solve it - Which part could change? Which context could change?
+- <strong>Modify</strong> (Magnify and Minify) - Can emphasize, add, grow, tone down…?
+- <strong>Put to another use</strong> - Could X, Y, Z person use it? Who else? How else could it be used?
+- <strong>Eliminate</strong> - What would happen if we trim, narrow, reduce, effort, time, costs, rules? I can eliminate X by…
+- <strong>Reverse</strong> (rearrange) - What if this process was reverse? Could we change the schedule or pace?</p>
+<p><strong>Do any answers stand out as viable solutions?</strong></p>
+<p><strong>Part II.
+Worst possible idea.</strong>
+1. Come up with as many bad ideas as we can.
+2. List all the properties of the bad ideas.
+3. List what is it that makes these ideas bad.
+4. Search for the opposite of the worst attribute.
+5. Mix/match and substitute bad ideas to see what happens.</p>
+<p><strong>Part III.</strong>
+<strong>Exercises using Personas</strong> to distill essences of each [Team PSD Manual] user type, who they are and what they do with the relevant resources in relevant contexts. <strong>The goal mapping usersʼ needs to design functionality</strong>.
+- Based on <strong>observation</strong> of real users.
+- Shaped iteratively by defining <strong>needs</strong> AND <strong>users</strong>.
+- <strong>Context</strong>: How will this help in context?
+- <strong>Goal</strong>: Goal-directed personaʼs enable good tests.
+- <strong>Role</strong>: Role-directed perspective.
+- <strong>Hypothesis</strong>:
+- <strong>Description</strong>: values, interests, education, needs, attitudes, desires, limitations, goals
+- <strong>Situations/scenarios</strong>: put the user in contexts with problems to overcome.</p>
+<p><strong>Key idea is to avoid designing for yourself only, or designing and forcing generic users to fit the design.</strong></p>
+<ol style="list-style-type: decimal">
+<li>Stay in context: How will a team member use it during typical Team PSD day?</li>
+<li>Reflect real behaviors: What does a Team PSD member have to do?</li>
+<li>Has an end goal: What does a Team PSD member want to achieve?</li>
+<li>Addresses a pain point: What is the hardest/most frustrating aspect of the situation/context?</li>
+</ol>
+<p><a href="#DontLink"><img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/design/design_workshop_manual/persona_example.png"></a></p>
+</div>
+<div id="prototype---inexpensive-scaled-down-version-with-the-key-features-to-investigate-the-problem-and-solution.-goal-is-to-identify-the-best-possible-solution." class="section level3">
+<h3><span class="header-section-number">3.1.4</span> 4. <strong>Prototype</strong> - inexpensive, scaled down version with the <strong>key features</strong> to investigate the problem and solution. <strong>Goal is to identify the best possible solution</strong>.</h3>
+<ul>
+<li>Solutions are investigated, accepted, improved, re-examined, rejected based on user-experiences.</li>
+<li>Should give much better sense sense of constraints and how users would behave, think, and feels when interaction with it.</li>
+</ul>
+</div>
+<div id="test---test-your-prototype-with-the-personas-in-question." class="section level3">
+<h3><span class="header-section-number">3.1.5</span> 5. <strong>Test</strong> - test your prototype with the personas in question.</h3>
+<ul>
+<li>Does the prototype address the personas needs and pain points?</li>
+</ul>
+
+</div>
+</div>
+<div id="day-2-team-psd-manual-workshop-artifacts" class="section level2">
+<h2><span class="header-section-number">3.2</span> Day 2: Team PSD Manual Workshop Artifacts</h2>
+<p><strong>“Gandy Dancers” process for building the railroads</strong>
+- Used <strong>song</strong> to lay and adjust track and build the railroads.
+- We are working to develop our Team PSD <strong>processes</strong> (song) for building our railroad (not building the track), our <strong>processes</strong> and <strong>platforms</strong> for building. Like a <strong>song</strong>, it should keep us in time w/one another and feel good!
+- In this metaphor, the <strong>“train”</strong> is our <strong>mission</strong> to improve care for Veterans. We will have to <strong>learn</strong> to better use our platform to support this mission.
+- <strong>Takeaway: We want our platform to support a reliable way of working together</strong> (picture those hammers!)</p>
+<p><strong>GitHub will continue to be our song (platform) for building our railroad because learning to use its standards will scale.</strong>
+- <strong>Learning</strong>: Some team members are “unlearning,” some “relearning,” and others just “learning” the GitHub platform.
+- Fortunately, <strong>all</strong> team members have experience learning new platforms to do their work.
+- It is already <strong>standard</strong> and
+- used by these current partners:
+- VA
+- Forio
+- System Dynamicists (e.g., James Houghton &amp; Jim Duggan)
+- used by these potential partners:
+- MITRE
+- Google
+- <strong>GitHub is already Team PSDʼs standard</strong>, used for 3 years.
+- we know how to use <strong>.md</strong>
+- we know how to set up <strong>README.md</strong> files
+- we know how to use and review <strong>pull requests</strong>
+- we know how to complete <strong>issue templates</strong>
+- we know how to track and review <strong>ZenHub</strong> reports
+- we know how to use <strong>GitHub</strong> more broadly to <strong>develop features</strong>
+- we know how to use <strong>GitHub</strong> more broadly to</p>
+<p><strong>Our Team PSD “Works in Progress” repository will be the manual (SOP) for how to contribute to Team PSD.</strong>
+<strong>Why?</strong>
+- No change: <strong>The Team PSD repo already is our manual.</strong>
+- Change: We are not [yet] <strong>configured</strong> to use this repo across the team to meet <strong>all</strong> team members [userʼs] needs at <strong>our growing scale</strong>.
+- 45 team members and partners…and growing…
+- <strong>How?</strong>
+- <strong>GOAL: Keep an eye on “pain points” associated with lack of scale</strong>
+- <strong>Metaphor for this goal: We cannot simply “make a table,” when what we need is scalable way for any Team PSD partner to contribute to making of tables that scale.</strong></p>
+<p><strong>DIMENSIONS of our PROBLEM OF SCALE:</strong>
+- <strong>Team: Shared understanding and language</strong> is harder to maintain as we grow beyond our founding team.
+- <strong>Partners: Joining the team</strong> is harder unless we use existing standards.
+- <strong>Platforms: Maintaining quality in production</strong> is hard to maintain relying solely on individual peopleʼs disciplined adherence to an SOP.
+- <strong>Production: Constant change is the norm and improvement desirable</strong>, but hard without means for <strong>continuous integration</strong>.</p>
+<p><strong>Q &amp; A</strong>
+<strong>Q: What is continuous integration?</strong>
+A: Merging all working copies into master several times a day.
+Q: How cool, but donʼt we already do that?
+A: Yes! So we are very close, hereʼs what weʼre missing: <strong>We are relying on people</strong> to provide rapid feedback about defects in our code base, so that they can be identified and corrected ASAP (itʼs not that <em>fun</em>, is it?).
+A &amp; Q. No. So what would be different if we used continuous integration on our Team PSD Repo?
+<strong>A: We will use more of GitHubʼs native (&amp;/or integrated) tools to automate testing and build our documentation.</strong>
+##### - These are two things we probably spend over 80% of team time doing by hand…
+- So, when thereʼs a missed dependency, which inevitable, because we still struggle to do better than <em>discover this by hand</em>…that leads to rework, it hurts!!!
+- Our SOPʼs reliance on people leads to social friction, where there could be intellectual friction supported by the right tools.</p>
+<p><strong>OBSERVATIONS that led to this Workshop:</strong>
+- e.g., If all team members need to achieve Jamesʼ level of discipline, our SOP doesnʼt scale.
+- e.g., If we all to scan the horizon to identify dependencies that our GitHub, ZenHub, Workgroup Leads, Workgroup and huddles still just didnʼt catch, then our SOP doesnʼt scale.
+- e.g., If we read through a list of well-specified requirements using the exact same words (e.g., “parser,” “database processes”) and donʼt realize weʼre not speaking the same language, then our SOP doesnʼt scale.
+- e.g., If the ask is to create the standard rules for .md files for other team memberʼs to use and we still donʼt understand each other without substantial revision and meeting support, then our SOP doesnʼt scale.
+- e.g., If direct dependency intervention from the PI is insufficient for alignment when well-discussed, and well-documented across several meetings and huddles, then our…SOP…doesnʼt…scale…
+- e.g., If it takes the team, up to four team members working full time, at any given time to produce the necessary documentation of the changes we made months ago, then our SOP doesnʼt scale.
+- Ouch!</p>
+<p><strong>UPGRADING OUR INDIVIDUAL MENTAL MODELS</strong>
+<strong>Assumptions about Team PSDʼs need for an improved way of building our railroad through GitHub, we could…</strong></p>
+<p><strong>OUR SHARED VISION:</strong>
+1. <strong>Update</strong> all the files on Team PSD with a key stroke.
+2. <strong>Test</strong> scripts instead of use checklists.
+3. <strong>Shared (team) or even universal (global) language</strong> so that we all envision the exact same thing.
+4. <strong>Integrate data processes</strong>, so weʼre sure about it, including any changes. 5. Provide <strong>seamless transparency</strong> to a whole range of people (and our several team member), rather than do it by “brute force.”
+6. <strong>Facilitate</strong> (empower) checking against standards.
+7. <strong>Manage change</strong> through consistent process.</p>
+<p><strong>HOW?</strong>
+- <strong><em>How</em></strong> <strong>might we (HMW) address our pain points?</strong>
+1. <strong>Learn how</strong> to do my job differently on GitHub.
+2. <strong>Focus on the benefits</strong> of learning how to better use GitHub as a tool for our purpose.
+3. <strong>Discover</strong> and flex GitHub capabilities to scale the “SOP.”
+4. <strong>Develop empathic understanding</strong> of each Team PSD memberʼs needs.
+5. <strong>Use shared language</strong> so that new changes work for current team members [aka: “users” of the Team PSD repo].
+6. <strong>Recruit</strong> new team members and partners with GitHub fluency.
+7. <strong>Remember</strong> that we have all learned new platforms before.
+8. <strong>Learn from</strong> more skilled GitHub “been-to” team members.
+9. <strong>Automate</strong> using complete repository configuration.</p>
+<p><strong>Key to avoiding Potemkin Village: Remember our “users” here are Team PSD Members and Partners, not Modeling to Learn learners.</strong>
+1. A Potemkin Village is construction whose purpose is to provide an external facade to hide the fact that its faring poorly.
+2. We are <strong>NOT</strong> a Potemkin Village:
+Partners are SO impressed with what we have done making <strong><em>Modeling to Learn</em></strong> <strong>achieve our 3 participatory principles at scale</strong>:
+a. Equitable access to resources
+b. Mutual learning
+c. Shared decision-making
+<strong>This is what attracts people to us and makes us stand out the most!</strong>
+3. However, <strong>it is ironic to these partners that we are not fully using GitHub for some of itʼs primary purposes</strong>:
+1. <strong>Accessible collaboration tools for parallel management of</strong>
+a. Tasks
+b.Code
+2. <strong>Shared platform for streamlined iterative change (version control)</strong>:
+a. tracking
+b. control
+c. testing
+3. <strong>Support for all programming languages.</strong>
+4. <strong>Easy open source contributions from the community.</strong>
+5. <strong>Documentation.</strong></p>
+<p><strong>A REALLY KEY IDEA:</strong></p>
+<p><strong>Consistent with our Team PSD values, we came to our need for GitHub organically. We are further growing into our need for it as a team.</strong></p>
+<p>Tech people, who live and breathe GitHub. Modelers, who live and breathe their models, all want to know how we got to Modeling to Learn? It is impressive they say.</p>
+<p>I say, “We started with the values and the partnerships and we learned what was needed.” I describe the participatory system dynamics processes we integrated with cutting edge technology, guided by our values to partner with our frontline providers, Veteran patient advisory board, and senior VA stakeholders over the last five years.</p>
+<p>We have added two new team members who have experience with the types of enterprise or production level platform we need to optimize our Team PSD skills at scale. Consistent with their Team PSD roles and responsibilities, and their own pain points, they will help the team set up these workflows.</p>
+<p><strong>We will learn this together.</strong>
+Our mission and values require it of us.</p>
+<p><strong>We rebooting our “user” focus to Team PSD.</strong>
+<strong>Team PSD optimization, not Modeling to Learn optimization.</strong></p>
+<p><strong>35 Active Listening Highlights: Our individual Team PSD Repo users - whys? (Teams notes)</strong>
+1. automation
+2. “seeing” how things are used
+3. accessibility
+4. transparency to others
+5. across technology, data sources, model services, and the UI
+6. responsive to multiple change authorities
+7. testable automatically
+8. donʼt have to hold things in our heads
+9. dependencies obvious
+10. trusted set of processes we do
+11. simpler than a bunch of rules
+12. minimal change in day to day work for average user
+13. automated crosswalk for whether content is correct
+14. unnecessary processes eliminated
+15. less dependent on learning it all
+16. less dependent on history with the team
+17. less reliant on meetings (and we still canʼt see it)
+18. less reliant on memory
+19. robust to real-time change
+20. living document that is always current
+21. dependency scan to align across standards for the sim, model, guides
+22. data on the backend of things is available
+23. can see intermediate steps in the data
+24. wonʼt waste time because we can see the state of the data
+25. save time, over time, by “googling” the information yourself
+26. we can change documents (documentation) at scale
+27. enable independent, effective contributions
+28. set up platforms so partners can flex their strong suits
+29. remove weak spots in current processes/GH use
+30. version control
+31. learn to use tools for what they are meant to do
+32. develop skill set to use the correct tool for the job
+33. reduced difficult with the platform will maximize contributions
+34. technology will support our relationships with everyone
+35. strong relationships with everyone is our “core brand.”</p>
+
+</div>
+<div id="day-3-persona-prototypes" class="section level2">
+<h2><span class="header-section-number">3.3</span> Day 3: Persona Prototypes</h2>
+<p><strong>Summary of Artifacts from Empathesize, Define, Ideate</strong></p>
+<p><strong>Part I. Position Descriptions (P.D.ʼs):</strong>
+- <strong>What did everyone notice from highlighting their roles/responsibilities in their P.D. for coordination/collaboration/communication?</strong></p>
+<p><strong>Problem Statement from our user POV - Our pain points are because Team PSD doesnʼt scale (empathy).</strong></p>
+<p><strong>Define:</strong>
+- <strong>IMPROVE INTEGRATION for SIMPLICITY: As with all software and technology development, there will be constant change! So, our processes need to be <em>more fully integrated with GitHub standards</em>, otherwise we canʼt effectively <em>collaborate at scale</em>, or <em>support our resources at scale</em>, or <em>contribute open-science</em>.</strong>
+- <strong>FOR A RESEARCH TEAM, HOW WE SPEND OUR TIME IS NOT OPTIMAL: We focus <em>too much time supporting MTL in production</em>, not enough time supporting <em>Team PSD contributions to science</em>.</strong>
+- <strong>USE THE RIGHT TOOLS FOR THE JOB: Right now, <em>we rely on peopleʼs discipline and consistency with protocols</em>…and we are doing our best! But, we should be relying <em>standard coding workflows designed for cross-functional team contributions and transparency</em>.</strong>
+- <strong>CURRENT TEAM IS CONSTRAINED BY NEED FOR “UPSKILLING:”</strong>
+1. <strong>Micro-level: The process of individual team members learning new skills.</strong>
+2. <strong>Macro-level: <em>Tectonic shift in the workplace</em> caused by technology in which new possibilities can be fully realized only by a modernized workforce.</strong>
+- <strong>Take a second look at your P.D. - What if you take a look at it now for platforms?</strong></p>
+<p><strong>Moving from our ideation personas to our first prototype tests:</strong></p>
+<p><strong>Proposed Prototype: Continuous Integration (CI), deployment (CD), and documentation on GitHub.</strong>
+- Consider ways in which <strong>upskilling to include CI/CD</strong> would help you more <em>fully flex your Team PSD role and responsibilities</em>.
+- <strong>Donʼt just consider the mental model</strong> that you have of a typical day when testing (<strong>AS IS</strong>) only…weʼre trying to map to our desired “dream team” state…
+- So, review your P.D. and consider your “TO BE” state in which you had everything you needed to fulfill your role and responsibilities, but would need to learn new skills.</p>
+<p><strong>Part II. PROTOTYPE Testing with our Team PSD “user” PERSONAS Wednesday - Review at 3PM or 10AM Thursday</strong></p>
+<p><strong>A. PERSONAS:We developed 6 Team PSD user personas:</strong>
+- <strong>Sim UI/Model Developer (James)</strong>
+- <strong>Quant Data Engineer/SQL Programmer (Ash)</strong>
+- <strong>Quant Analyst/Technical Writer (Anthony)</strong>
+- <strong>HQ Platform Manager (Stacey)</strong>
+- <strong>HQ Research Assistant (Jenn)</strong></p>
+<p><strong>NOTE: We are Missing Personas for key Part-Time Team Members by Role</strong> (most effective workgroup to partner):
+- <strong>Mentee</strong> (e.g., Alexandra?) - HQ
+- <strong>Qual</strong> (e.g., Kathryn?) - HQ
+- <strong>Co-I</strong> (e.g., Rachel or Shannon?) - Quant pay attention to…
+- <strong>Facilitator/Educator</strong> (e.g., Jane or Debbie?) - Sim UI/Model</p>
+<p><strong>PROTOTYPE TESTING with User Cognitive Interview</strong></p>
+<p><strong>B. PROTOTYPES: We are completing the first 3 GitHub Lab Trainings on #1220 as Team PSD “users:”</strong>
+1. GitHub <strong>Apps</strong> (~ 1 hr) - automate repetitive tasks
+2. GitHub <strong>Actions</strong> (~2 hrs) - templates workflow with testing
+3. GitHub <strong>Packages</strong> (~30 minutes) - continuous deployment</p>
+<p><strong>Part III. TESTING</strong></p>
+<p><strong>METHOD: COGNITIVE INTERVIEW (<em>Can you use transcription to “walk through” outload?</em> - consider your eyes, mouse, clicks, thoughts, feelings and search behaviors) - We are interviewing ourselves about <em>two things</em> the training and the tools.</strong></p>
+<p><strong>A. TEST 1: Can I (as this user-persona) use this GitHub training to learn how to use this?</strong>
+- How am I using this training? What do you mean?
+- What do I understand?
+- What is confusing?
+- What is frustrating? Why?
+- What else did I (or would I) need to look up or check to understand this?
+- How much more training will I need to implement this?
+- How much help will I need to implement this for my own needs?
+- How do I feel?
+- Do I like this?
+- Is this realistic?</p>
+<p><strong><em>Why is this an important user test of the native GitHub Continuous Integration Prototype?</em></strong>
+- <strong>The more Team PSD enlists existing native GitHub capabilities:</strong>
+- <strong>The easier it will be to onboard new team members</strong>, because
+- New team members will already have used these standards.
+- New team members can “google” and learn for themselves using existing resources.
+- Existing team members wonʼt have to develop those trainings.
+- <strong>The easier it will be for existing team members to help ourselves.</strong></p>
+<p><strong>B. TEST 2: Can I (as this user-persona) use this GitHub <em>capability</em> (feature/ function) to improve my daily workflow?</strong>
+- How would I use these capabilities to address my most common pain points? What do you mean?
+- What do I understand?
+- What is confusing?
+- What could I set up myself?
+- What would I need to still to learn?
+- What would I need help from others to do?
+- What would be most time-saving about this? Why?
+- What would be most time-consuming to learn/implement? Why?
+- What doesnʼt this do (or what else would I need?) to improve the quality of my workflow and the quality of my daily work life?
+- Do I like this?
+- Is it realistic?</p>
+<p><strong><em>Why is this an important user test of the native GitHub Continuous Integration Prototype?</em></strong>
+- <strong>We need to rule in/out which capabilities we will implement to remove pain points.</strong>
+- <strong>Constrain our reboot or retooling to the month of May.</strong>
+- Imagine you lose the dedicated team time and want to be <strong>standard-consistent and as independent</strong> as possible.
+- Picture <strong>3 new team members</strong> starting in June (Data Scientist, Modeler, Health Economist)
+- <strong>Submit R21 Manuscripts to close it out in early June.</strong>
+- How can we meet our <strong>open-science standards for our data pipeline?</strong>
+- When can we achieve it?
+- What do we need to do to achieve it?
+- <strong>Support new COVID-19 release by Oct.</strong>
+- Note that this is <strong><em>with new team members.</em></strong>
+- <strong>Consider our other partners that all want to collaborate or help (11+, Iʼm not sure this is all - notice anything about this list?…):</strong>
+- MITRE - Synthea and Simulation Models
+- Google/Harvard - Modeling and AI
+- Duke University - PSD
+- University of Utah - PSD
+- University of Denver - PSD/Re-AIM
+- University of Wisconsin/Harvard - PSD/Engineers in Implementation Science
+- University of Queensland - PSD/Emergency Medicine
+- University of Rochester - PSD/Hospital in Home
+- SUNDIR/Stanford - PSD
+- Mission 401/Primary Care - PSD
+- Supercomputing Clinical Care Pathways - Oakridge National Labs, Berkeley
+- Picture supporting <strong>Modeling to Learn</strong> again sometime during this period…
+- Consider the possibility of <strong>MTL Hawaii</strong> starting toward the end of this period.</p>
+<p><strong>TEST 3. Validate Persona Cognitive Interview results against our Priorities and Open Issue Tasks</strong>
+<strong>Thursday Afternoon - Observe and Analyze from your user POV</strong></p>
+<p><strong>B. Review the May Epic R21 and 1192 &amp; 1220 goals and Sorted List of Open Issues</strong>
+- <strong>What we should strive to fully implement in May to get the highest yield improvements in Team PSD workflow.</strong>
+- <strong>Where is the biggest bang for your userʼs [motivational] buck?</strong></p>
+<p><strong>C. Which workflow should we set up/implement first</strong> (adds the most value, improves the most downstream; analogy our root level directory)?
+- Why is that the most important workflow to set up first?
+- Why would it save the most time in May?
+- Why would it save the most effort in general (typical day)?
+- What paint points does it address?
+- What part of the SOP/Manual/Document tracker does it address?
+- Is it “root” enough to avoid rework?
+- What are the downstream benefits of starting with this?
+- What are the risks of starting with this?</p>
+<p><strong>D. <em>How might we</em> set up that workflow? Who needs to learn what?</strong>
+- Plans for learning by user-type/workgroup based on the highest yield (for lightest lift):
+- What is standard and we can learn it using existing trainings online?
+- What needs to be sorted out next to integrate this into Team PSD?</p>
+<p><strong>Friday - Synthesize</strong>
+- <strong>Refine plans for divvying up learning and set up tasks to implement Team PSD-specific prototypes for user-testing next week.</strong>
+- Weʼll use our Personas to develop Team PSD-specific Tests of our workflow.</p>
+
+</div>
+<div id="day-4-team-psd-2.0" class="section level2">
+<h2><span class="header-section-number">3.4</span> Day 4: Team PSD 2.0</h2>
+<ul>
+<li>10AM today: <strong>Post Cognitive Interviews results for TEST 1 and for TEST 2 to Teams</strong></li>
+<li>1PM today: <strong>#1192 &amp; #1220 &amp; Dependency Post-Mortems in the language of CI</strong></li>
+</ul>
+<p><strong>“Song” for building the Railroad…Metaphor</strong>
+- <strong>Gandy Dancers</strong> used their songs to build the railroads for well over 150 years.
+- And, railroads supported other development, innovation and wealth (e.g. Stanford University).
+- But, not only were gandy dancers ultimately replaced, the railways themselves in large-part were ultimately were <strong>technologically outgrown</strong> (i.e., is Stanford known as one of the most prominent railroad universities in the world?)</p>
+<p><strong>Team PSD is outgrowing our unscalable workflow!</strong>
+- <strong>We will learn this together (mutual learning) as we always do :)</strong></p>
+<p><strong><em>How sure am I that we have to better integrate existing coding standards to survive?</em></strong></p>
+<p><strong>A. The <em>threat</em>: Our only cover is daylight.</strong></p>
+<p><strong>Part 1: Look at how normed this is…</strong>
+- <strong>COVID19 Modeling Uncertainty - All available, but “wrong” vs…</strong>
+- <strong>COVID19 Pre-prints, Communication Response Time &amp; Data Availability - Not available</strong>
+- <strong>COVID-19 Open Science Framework Example (normed)</strong></p>
+<p><strong>Part 2: We have a way forward…many grants cannot continue and staff are being furloughed.</strong></p>
+<p><strong>B. The <em>opportunity</em>: The community is there to support us finding our TeamPSD “songs.”</strong></p>
+<p><strong>Look at how normed this is…</strong></p>
+<ol style="list-style-type: decimal">
+<li><strong>Quick Start Guides</strong>
+<a href="https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/" class="uri">https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/</a></li>
+<li><strong>Support</strong>
+<a href="https://support.github.com/" class="uri">https://support.github.com/</a></li>
+<li><strong>Probot Repo</strong>
+<a href="https://github.com/probot/probot" class="uri">https://github.com/probot/probot</a></li>
+<li><strong>Virtual Conferences</strong>
+<a href="https://githubsatellite.com/schedule/" class="uri">https://githubsatellite.com/schedule/</a></li>
+</ol>
+<p><strong>C. Put in a values consistent way: We are the Leads in this space and people want to know how they can do this too!</strong>
+- The list of mentees, senior scientist that want to retrain and partners that want to help is <strong>long</strong>…</p>
+<p><strong>We are using 7 Team PSD user <em>personas</em> to test native GitHub Continuous Integration <em>prototypes</em>:</strong>
+- Reviewing Cognitive Interview results elicited <strong><em>diverse mental models</em> about the prototype <em>training</em> and the prototype <em>capabilities</em></strong>.</p>
+<p>*These were all present before our workshop, we are trying to gain new <strong>empathic understanding</strong> of each user type.
+- <strong>Huge time-savings!</strong> Reported range for GH Apps <strong>1.5 - 3 hours</strong> inclusive of cognitive interviewing.</p>
+<p><strong>User Point of View (POV) Problem Statement, Team PSD doesnʼt scale.</strong>
+- Team Personas
+- Team Position Description (PDs)</p>
+<p><strong>Design Workshop “TO BE” Key Words:</strong>
+1. <strong>“Automate”</strong>
+2. <strong>“Shared language”</strong>
+3. <strong>“See/Test”</strong>
+4. <strong>“Integrate”</strong> (simplify)
+5. **“Increase time for/Focus** on transparent Team PSD Science” (not just our MTL intervention)</p>
+<p><strong>Design Workshop “AS IS” Key Words</strong>
+1. Not using our <strong>tools/platform</strong> correctly, why? The team doesnʼt know how…
+2. *<strong>Upskill, so we can</strong>
+- <strong>“Speak the same language!”</strong> Learn more about our diverse Team PSD user-types and their mental models.
+- <strong>“Google for yourself”</strong> - Use of existing standards are empowering! time-saving!
+- <strong>“Simplify to existing standards”</strong> - Key to onboarding new members &amp; staying current to collaborate, retain funding.</p>
+<p><strong>Generally (Macro)</strong>: Upskilling refers to the expansion of team memberʼs capabilities and employability to fulfill team needs in a rapidly changing economy (e.g. OSF, COVID-19 &amp; the scientific landscape).</p>
+<p><strong>Specifically (Micro)</strong>: Upskilling is not the same as reskilling…An upskilling effort, is a comprehensive initiative to convert, and further develop, applicable team knowledge into more productive team results.</p>
+<p><strong>Coming out of this workshop, our may_epic priority is the Team PSD 2.0 release</strong> (#1192 &amp; #1220), with <strong><em>critical focus on wrapping up the R21</em></strong></p>
+<p>These are our steps:
+1. <strong>Clarify why</strong> the team needs new skills,
+2. <strong>Identify the skills</strong> that are most valuable,
+3. <strong>Develop the most feasible/viable plan for how</strong> the team will obtain the necessary skills, using our personas
+- <em>Prototypes</em>:
+a. <em>generic GitHub</em> prototypes,
+b. followed by top-priority <em>Team PSD-specific</em> prototypes next week
+4. <strong>Train to scientific and industry standard skills</strong> through technology-enabled learning in the existing coding/GitHub ecosystem
+5. <strong>Synthesize into a new “root” Team PSD repo (SOP continuously integrated, deployed and documented; manual &amp; document tracker)</strong></p>
+<p>Our <strong>Team PSD Manual Design Thinking Workshop</strong> is confronting our individual assumptions to design better solutions.
+- The payoff can be immense in <strong>team results</strong>,
+- overall <strong>quality of work life</strong>, and
+- increased <strong>individual and team opportunities</strong>.</p>
+<p><strong>Thursday &amp; Friday Outline</strong>
+<strong>“Thereʼs an app for that!”</strong></p>
+<p><strong>1192 &amp; Dependent Issues Process Post-Mortem</strong>
+<strong>Using new shared GitHub “CI” language/understanding, how might we (HMW)</strong>
+- a) <strong>enlist a native GH feature to solve 80% of our pain</strong> (upstream &amp; downstream?),
+- b) what can be and should be done in <strong>May</strong>?
+- c) <strong>who will learn what new skills</strong> to develop the Team PSD-specific prototype for user testing? Why?
+- d) what is the **user-centered hypothesisv you are trying to reject/validate with your prototype (minimal viable product or “MVP”)</p>
+<p><strong>1220 &amp; Dependent Issues Process Post-Mortem</strong>
+<strong>Using new shared GitHub “CI” language/understanding, how might we (HMW)</strong>
+- a) <strong>enlist a native GH feature to solve 80% of our pain</strong> (upstream &amp; downstream?),
+- b) what can be and should be done in <strong>May</strong>?
+- c) <strong>who will learn what new skill</strong>s to develop the Team PSD-specific prototype for user testing? Why?
+- d) what is the <strong>user-centered hypothesis</strong> you are trying to reject/validate with your prototype (minimal viable product or “MVP”)
+- e) what <strong>metrics</strong> will we use next week to evaluate our <em>user-centered hypotheses</em> about our <em>Team PSD-specific prototypes</em>?</p>
+<p><strong>Friday Finalize</strong></p>
+<p>One pager of what we are doing in the team
+- Language map
+- Git
+- YAML Node.js
+- CSS Docker
+- .html
+- .sql
+- .r</p>
+<p><strong>Repo map:</strong>
+- <strong>Everything MTL “mtl” describe, detail</strong> (Sim UI, SEE &amp; SAY, Models, model &amp; data documentarian) (1220) - 100% open source (get the help!)
+- <strong>Everything Team PSD</strong> - team <strong>document</strong> <em>how</em> to “teampsd” (1192) - 100% “living document” and “self-help”
+- Team PSD Open Science <strong>disseminate</strong> scientists &amp; VA???
+- <strong>mtl_code</strong> plus OSF (research scientists?)
+- <strong>Internal VA Enterprise</strong> (operations VA)
+- <strong>teampsd</strong> - set up SOP build for repo</p>
+<p>What should we do first, why?
+- capabilities</p>
+<p>Who needs to learn what?
+- training</p>
+<p>What metrics will we use next week to evaluate our user-centered hypotheses about our Team PSD-specific prototypes?</p>
+
+</div>
+<div id="day-5-team-psd-personas-and-minimum-viable-products-mvps" class="section level2">
+<h2><span class="header-section-number">3.5</span> Day 5: Team PSD Personas and Minimum Viable Products (MVPs)</h2>
+<p>8AM: Part I &amp; II Together</p>
+<p>9AM: Part III &amp; IV On your own</p>
+<p>12:30: Check-in</p>
+<p>2-4PM: Part V Review and Clarify next steps together</p>
+<p><strong>Part I:
+Using the GitHub Continuous Integration (CI) language today.</strong></p>
+<p><strong>A. What is the purpose of a shared language?</strong>
+Shared understanding.</p>
+<p><strong>Who has translated between two languages before. What are the challenges? What does it feel like (ups &amp; downs) to be a translator?</strong></p>
+<p><strong>B. Artifacts from Day 4</strong>
+- <strong>P.I. Persona (&amp; Platform Manager)</strong>: Knew we needed to be headed to end-
+to-end open science-workflow and <strong>both have the mental model that we have been headed here the whole time.</strong> [clouds]
+- PI knows (knew) that <strong>we have team members who understand that a teamʼs full use of continuous integration (CI) and deployment (CD) and/or GitHub is so basic</strong> for people who do what we do, that the fact that we do not have this in place is demoralizing and alarming!
+- But, PI did not realize that we also <strong>have some team members still just grasping this reality due to lack having the shared language and understanding</strong> of these standard capabilities.</p>
+<p><strong>P.I.: Wants the team to be resourceful and responsible for learning together how to align Team PSD according to existing standards.</strong></p>
+<p><strong>Part II:
+No, really…we must use the GitHub Continuous Integration (CI) language <em>TODAY</em>. And, we must continue to use our <em>user personas to test our assumptions</em>.</strong></p>
+<p>**A. *WHY is it <em>urgent</em> that we retain our user persona POV as we move into our HMW (how might we) MVP learning, development &amp; testing?<strong>
+- </strong>We must locate ourselves in our team of users and assume we are**
+a) HIGHLY likely to not really be understanding each personas WHYs, and
+b) not really understanding the GitHub/CI standard HOWs.</p>
+<p><strong>B. Review this “HOW” and “WHY” Exchange from end of the day 4:
+P.I.</strong> (Lindsey):
+- “Well, <strong>SQL Programmer/Data Engineer persona</strong> (Ash) thatʼs an important point.
+- But, thatʼs not quite what <strong>Principal Investigator</strong> (I) meant for the about the <strong>order of file standards</strong> vs setting up <strong>actions</strong>, in what I heard our <strong>Data Analyst/Technical Writer</strong> (Anthony) proposing for him that I think may also save a ton of <strong>HQ workgroup time in May</strong>…
+- [<strong>Principal Investigator</strong> clarification with <strong>SQL Programmer/Data Engineer persona about the role of Facilitator/Educators</strong> (Jane &amp; Debbie)]
+- [addition of his own understanding from <strong>Sim UI Designer/Developer</strong> (James) persona about linking out to files].
+- Well, <strong>Sim UI Designer/Developer</strong> (James), thatʼs not quite what I heard <strong>SQL Programmer/Data Engineer</strong> (Ash) saying either, I think we might be starting to <strong><em>fragment out in our shared understanding of the how.</em></strong>”</p>
+<p><strong>Sim UI Designer/Developer</strong> (James):
+- “It seems like I never quite understand <em>you.</em>”</p>
+<p><strong>C. What do you notice about this exchange?</strong>
+- <strong>Lots of personas</strong> involved here…<strong>what do we know about the differences in these personas?</strong>
+- <strong>Focus on the WHY for HQ</strong>, represented by PI here, being discussed with team members who arenʼt in that workgroup.
+- <strong>Conversation loses shared understanding related to clarifying the HOW</strong> (order of operations, questioning the assumptions of whether we need Actions to solve 80% of HQʼs pain points or whether an App to enforce .md style may suffice for root tasks and pain points.
+- <strong>Active listening to elucidate and clarify misunderstandings across persona mental models</strong>, leads a team member to reflect in <em>my understanding vs. PI understanding</em>. <strong>What does this feel like, does it feel as fun as a “song?”</strong>
+- This type of work is common, and these types of conclusions need to be questioned.</p>
+<p><strong>Pull us back to maintain the safety of our Empathic POV</strong>
+- <strong>How do personas help us with this?</strong>
+- Clarify mental models/assumptions that need testing.
+- Move us to consider “user needs” not just our own.
+- <strong>How do MVPs help us with this?</strong>
+- “Fail fast &amp; cheap” testing key assumptions before proceeding</p>
+<p><strong>Walk before you run…Really…weʼre just starting to roll our sleeves up to get to the bottom of this…</strong>
+- Team PSD members need to take <em>individual responsibility</em> for trying to understand whatʼs really happening at the level of the team learning about each <strong>personaʼs WHYs</strong> and
+- Team PSD members need to enlist <em>individual resourcefulness</em> standard language</p>
+<p><strong>Summary of Day 4ʼs Review of TEST Cognitive Interview - Capabilities of the GH CI Protoype:</strong>
+- <strong>We have more learning &amp; mental modeling work to do related to our Continuous Integration (CI) HOWs</strong></p>
+<p><strong>Part III.
+How do persona tests of MVPs help us reduce risk and start using Standard Language (note: not shared…universally standard)?</strong></p>
+<p><strong>A. What is the purpose of an MVP?</strong>
+<strong>Reduce risk</strong> while you increase return on investment (for team time spent) <strong>by building only what is necessary.</strong></p>
+<p><strong>B. How do you define whatʼs necessary?</strong>
+“What is necessary” means the smallest possible version (prototype) that can be <strong><em>used to run a meaningful experiment to test key hypotheses</em></strong> and determine whether to continue investment.</p>
+<p><strong><em>Overview - How/Why
+First, clarify our assumptions about our user personas.</em></strong></p>
+<p><strong><em>Second, use how/why laddering</em> to determine our “how might we” MVPs to <em>test our hypotheses</em>.</strong>
+- <strong>Why do this?</strong>
+- <strong>How should we do this?</strong></p>
+<p><strong>C. Using your own user persona, edit the key example MVP hypotheses to your <em>persona.</em></strong></p>
+<p><strong>Example 1:</strong>
+- How does this <strong>workgroup</strong> work together now (people, platforms &amp; processes)?
+- <strong>Why do we assume</strong> that it works this way?
+- We will assess this by reviewing my <strong><em>one page LucidCharts map of my Workgroup</em></strong> (see Lindseyʼs examples)</p>
+<p><strong>Example 2:</strong>
+- How does this <strong>workgroup</strong> interface with Team PSD now (people, platforms &amp; processes)?
+- <strong>Why do we assume</strong> that it works this way?
+- We will assess this by reviewing my <strong><em>one page LucidCharts map of Team PSD</em></strong> (see Lindseyʼs examples)</p>
+<p>*<strong>INTEGRATE IF YOU CAN.</strong></p>
+<p><strong><em>First, clarify our assumptions about our MVPs.</em></strong></p>
+<p><strong>D. How Team PSD/Workgroup/Persona would use it definitions (yes, look it up, but answer according to your user persona). Standard Language: What else should be on this list?</strong>
+- <strong>App</strong>
+- <strong>Action</strong>
+- <strong>API</strong>
+- <strong>Webhook</strong>
+- <strong>Git</strong>
+- <strong>LucidCharts</strong>
+- <strong>YAML</strong>
+- <strong>.md</strong>
+- <strong>CSS</strong>
+- <strong>repo</strong>
+- <strong>branch</strong>
+- <strong>style</strong>
+- <strong>continuous integration</strong>
+- <strong>continuous deployment</strong>
+- <strong>documentation</strong>
+- <strong>root directory</strong></p>
+<p><strong>E. <em>Prototype Review: Review the GitHub Apps and the GitHub Actions.</em></strong></p>
+<p><strong>Using your own user persona, edit the key example MVP hypotheses to your <em>persona</em>.</strong></p>
+<p><strong><em>How Team PSD/Workgroup/Persona would use it</em> definitions (yes, look it up, but answer according to your user persona).</strong></p>
+<p><strong>Using your own user persona, edit the example MVP (GH App &amp; Action) hypotheses to your <em>persona</em>.</strong></p>
+<p><strong>Example 3:</strong>
+- <strong>How might we do X?</strong>
+- <strong>Why do we assume</strong> it will it solve 80% of my user personaʼs pain points?
+- We will assess this by developing ____ &amp; measuring ____?</p>
+<p><strong>Example 4:</strong>
+- How might my user persona <strong>learn</strong> to work this way?
+- <strong>Why do we assume</strong> they need to learn it to solve 80% of their pain points?
+- We will assess this by developing ____&amp; measuring ____.</p>
+<p><strong>F. How would you develop user-centered hypotheses for the Apps or Actions you selected?</strong></p>
+<p><strong>Keys for our User-Centered MVP hypotheses:</strong>
+1. Aligned with our major goal to implement our most solve our <strong>scaling pain points.</strong>
+2. An MVP is built <strong>with minimal time investment and features, focused on a viable solution.</strong>
+It’s the foundation upon which to iterate.</p>
+<p><strong>G. Map your understanding functionality requirements of #1192 &amp; #1220 to personas and MVPs.</strong></p>
+<p><strong>First, identify our assumptions (use your cognitive Interview results) and write hypotheses to test them.</strong>
+- What exactly is the <strong>smallest thing that we can build to test this hypothesis?</strong>
+- What else might we need to know to test this hypothesis and <strong>reduce risk?</strong></p>
+<p><strong><em>The metric we select, will help us to learn whether our design and learning plan is going the right direction</em>.</strong></p>
+<p><strong>Part V: AFTERNOON TOGETHER</strong></p>
+<p><strong>Synthesize</strong></p>
+<p><strong>Refine plans for divvying up learning and set up tasks to implement Team PSD-specific prototypes for user-testing next week.</strong>
+- Weʼll use our Personas to develop Team PSD-specific Tests
+- But first, we need to be able to talk to one another in the language of continuous integration.</p>
+<p><strong>Maps as Prototypes</strong>
+<strong>Repo map</strong>order of priorities:
+- Team PSD Open Science <strong>disseminate</strong> scientists &amp; VA???
+- <strong>mtl_code</strong> plus OSF (research scientists?)
+- <strong>Internal VA Enterprise</strong> (operations VA)
+- <strong>teampsd</strong> - set up SOP build for repo</p>
+<p><strong>Need HQ to set up quickly to effectively engage Jane &amp; Debbie (1192)</strong>
+- <strong>Everything Team PSD</strong> - team <strong>document</strong> how to “teampsd” (1192) - 100% “living document” and “self-help”</p>
+<p><strong>With help from Forio &amp; Dev:</strong>
+- <strong>Everything MTL “mtl” describe, detail</strong> (Sim UI, SEE &amp; SAY, Models, model &amp; data documentarian) (1220) - 100% open source (get the help!)</p>
+<p><strong>What is the purpose of an MVP?</strong>
+<strong>Reduce risk</strong> while you increase return on investment (for team time spent) <strong>by building only what is necessary.</strong></p>
+<p><strong>How do you define whatʼs necessary?</strong>
+“What is necessary” means the smallest possible version (prototype) that can be <strong><em>used to run a meaningful experiment to test key hypotheses</em></strong> and determine whether to continue investment.</p>
+<p><strong><em>First, clarify our assumptions about our user personas (HOW/WHY)</em></strong></p>
+<p><strong><em>Second, identify our assumptions and write hypotheses to test them (HOW/ WHY)</em>.</strong>
+- What exactly is the <strong>smallest thing that we can build to test this hypothesis?</strong>
+- What else might we need to know to test this hypothesis and <strong>reduce risk?</strong></p>
+<p><strong>B. Review the May Epic R21 and 1192 &amp; 1220 goals and Sorted List of Open Issues</strong>
+- <strong>What we should strive to fully implement in May to get the highest yield improvements in Team PSD workflow.</strong>
+- <strong>Where is the biggest bang for your userʼs [motivational] buck?</strong></p>
+<p><strong>C. Which workflow should we set up/implement first</strong> (adds the most value, improves the most downstream; analogy our root level directory)?
+- Why is that the most important workflow to set up first?
+- Why would it save the most time in May?
+- Why would it save the most effort in general (typical day)?
+- What paint points does it address?
+- What part of the SOP/Manual/Document tracker does it address?
+- Is it “root” enough to avoid rework?
+- What are the downstream benefits of starting with this?
+- What are the risks of starting with this?</p>
+<p><strong>D. How might we set up that workflow? Who needs to learn what?</strong>
+- Plans for learning by user-type/workgroup based on the highest yield (for lightest lift):
+- What is standard and can we learn it using existing trainings online?
+- What needs to be sorted out next to integrate this into Team PSD?</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="2-teampsd-guiding-principles.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="assets/gitbook-2.6.7/js/app.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/lunr.js"></script>
+<script src="assets/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="assets/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+},
+"toolbar": {
+"position": "static"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
