@@ -644,75 +644,11 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- | - | [Design Workshop Manual Day 1](https://raw.githubusercontent.com/lijenn/teampsdprototype/blob/master/resources/design/design_workshop_manual/day_1_design_workshop_manual.md)
+- | - | [Design Workshop Manual Day 2](https://raw.githubusercontent.com/lijenn/teampsdprototype/blob/master/resources/design/design_workshop_manual/day_2_design_workshop_manual.md)
+- | - | [Design Workshop Manual Day 3](https://raw.githubusercontent.com/lijenn/teampsdprototype/blob/master/resources/design/design_workshop_manual/day_3_design_workshop_manual.md)
+- | - | [Design Workshop Manual Day 4](https://raw.githubusercontent.com/lijenn/teampsdprototype/blob/master/resources/design/design_workshop_manual/day_4_design_workshop_manual.md)
+- | - | [Design Workshop Manual Day 5](https://raw.githubusercontent.com/lijenn/teampsdprototype/blob/master/resources/design/design_workshop_manual/day_5_design_workshop_manual.md)
 
 
 
