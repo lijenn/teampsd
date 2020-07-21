@@ -3,4 +3,4 @@ language:
   ui:
     chapter_name: "Chapter "
 new_session: yes
-rmd_files: ["index.Rmd", "teampsd_guiding_principles.md", "day_1_design_workshop_manual.md", "day_2_design_workshop_manual.md", "day_3_design_workshop_manual.md", "day_4_design_workshop_manual.md", "day_5_design_workshop_manual.md", "ms_teams_guide.md" ]
+rmd_files: ["index.Rmd", "teampsd_guiding_principles.md", "day_1_design_workshop_manual.md", "day_2_design_workshop_manual.md", "day_3_design_workshop_manual.md", "day_4_design_workshop_manual.md", "day_5_design_workshop_manual.md", "readme.md", "readme.md", "ms_teams_guide.md" ]
