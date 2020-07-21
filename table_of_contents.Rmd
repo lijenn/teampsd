@@ -653,7 +653,7 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 - | - | [MS Teams Guide](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/mtl_how_teams/ms_teams_guide.md)
 
 - | - | [team psd 2.0](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/readme.md)
-- | - | [team psd screencast](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/videos/readme.md)
+- | - | [team psd screencast](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/videos/screen_cast.md)
 
 
 
