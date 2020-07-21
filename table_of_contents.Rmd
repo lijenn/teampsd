@@ -655,7 +655,7 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 - | - | [team psd 2.0](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/readme.md)
 - | - | [team psd screencast](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/videos/screen_cast.md)
 
-- | - | [team psd youtube](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/videos/youtube_guide.md)
+- | - | [team psd youtube](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/videos/youtube/youtube_guide.md)
 
 
 - | - | [GitHub](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/github/github_draft.md)
