@@ -301,8 +301,7 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 
 
-
-[Team PSD Guiding Principles](https://raw.githubusercontent.com/lzim/teampsd/master/resources/training_guides/teampsd_guiding_principles.md) | [MTL videos on YouTube](https://www.youtube.com/user/LZPhD) | [R studio errors fixes](https://raw.githubusercontent.com/lzim/teampsd/tree/master/resources/r/errors_fixes)
+ [MTL videos on YouTube](https://www.youtube.com/user/LZPhD) | [R studio errors fixes](https://raw.githubusercontent.com/lzim/teampsd/tree/master/resources/r/errors_fixes)
 
 
 
@@ -660,7 +659,7 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 - | - | [GitHub](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/github/github_draft.md)
 
-
+- | - |[Team PSD Guiding Principles](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/teampsd_guiding_principles.md) 
 
 
 
