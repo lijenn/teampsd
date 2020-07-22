@@ -1,25 +1,17 @@
 --- 
 title: "Team PSD Manual"
 author: "Team PSD"
-date: "2020-07-21"
+date: "2020-07-22"
 link-citations: yes
 preview: yes
 site: bookdown::bookdown_site
 description: This is the Team PSD one stop shop.
 ---
+![](https://user-images.githubusercontent.com/59668647/88142662-bc2a7780-cbaa-11ea-9332-2fb904d5e602.png)
 
-# Preface
+# Team PSD Manual
 
-Welcome to your Bookdown
-
-The **bookdown** package can be installed from CRAN or Github:
-
-
-```r
-install.packages("bookdown", "HelpersMG", "readr")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+Welcome to Team PSD's manual for all things related to resources and guides!
 
 
 
