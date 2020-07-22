@@ -19,19 +19,21 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","HelpersMG","readr","tinytex"))'
-      #- name : install tinytex
-       # run: |
-        #     brew cask install basictex
-         #    Rscript -e 'tinytex::install_tinytex()'
-          #   Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
+      - name : install tinytex
+        run: |
+             brew cask install basictex
+             Rscript -e 'tinytex::install_tinytex()'
+             Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
       - name: Render Book
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
+        run: |
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book")'
       - uses: actions/upload-artifact@v1
         with:
           name: _book
           path: _book/
-      #- name: Render PDF
-       # run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book")'
+      - name: Render PDF
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book")'
 # deploy to gh pages yml
   build-and-deploy:
    runs-on: ubuntu-latest
