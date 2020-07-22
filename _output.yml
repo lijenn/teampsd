@@ -4,14 +4,8 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
-    download: [pdf, epub]
+    download: [html, epub]
     edit: https://github.com/lijenn/teampsdprototype/edit/gh-pages/%s
     sharing:
       github: yes
-bookdown::pdf_book:
-  template: preamble.tex
-  includes:
-      in_header: preamble.tex
-  latex_engine: xelatex
-  pandoc_args: ["--extract-media", ".", "--default-image-extension=jpg"]
-  documentclass : book
+
