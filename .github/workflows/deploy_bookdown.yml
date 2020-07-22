@@ -27,7 +27,7 @@ jobs:
       - name: Render Book
         run: |
              Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book")'
-             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::html_book")'
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::word_document2")'
              Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
       - uses: actions/upload-artifact@v1
         with:
