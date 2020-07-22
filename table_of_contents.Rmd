@@ -643,11 +643,11 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 
 
-- | - | [Design Workshop Manual Day 1](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_1_design_workshop_manual.md)
-- | - | [Design Workshop Manual Day 2](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_2_design_workshop_manual.md)
-- | - | [Design Workshop Manual Day 3](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_3_design_workshop_manual.md)
-- | - | [Design Workshop Manual Day 4](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_4_design_workshop_manual.md)
-- | - | [Design Workshop Manual Day 5](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_5_design_workshop_manual.md)
+- | - | [WEEK 1 AND 2 TEAM PSD 2.0 PROCESS](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/week_1_and_2.md)
+- | - | [WEEK 3 PSD 2.0 PROCESS](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/week_3.md)
+- | - | [WEEK 4 TEAM PSD 2.0 PROCESS](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/week_4.md)
+
+
 
 - | - | [MS Teams Guide](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/mtl_how_teams/ms_teams_guide.md)
 
@@ -666,6 +666,13 @@ Program Evaluation Resource Center (PERC) | [ Adobe Connect Room](https://va-eer
 
 
 
+- | - | [Design Workshop Manual Day 2](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_2_design_workshop_manual.md)
+
+- | - | [Design Workshop Manual Day 3](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_3_design_workshop_manual.md)
+
+- | - | [Design Workshop Manual Day 4](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_4_design_workshop_manual.md)
+
+- | - | [Design Workshop Manual Day 5](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/day_5_design_workshop_manual.md)
 
 
 
