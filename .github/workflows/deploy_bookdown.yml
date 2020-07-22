@@ -32,8 +32,6 @@ jobs:
         with:
           name: _book
           path: _book/
-      - name: Render PDF
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book")'
 # deploy to gh pages yml
   build-and-deploy:
    runs-on: ubuntu-latest
