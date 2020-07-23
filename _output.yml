@@ -4,5 +4,10 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
-bookdown::html_book:
-  css: toc.css
+    download: [epub, docx]
+    edit: https://github.com/lijenn/teampsdprototype/edit/gh-pages/%s
+    sharing:
+      github: yes
+
+bookdown::word_document2:
+    toc: true
