@@ -1,10 +1,14 @@
+# Values & Principles
+
+## Scientific Values 
+
 **Team PSD Scientific Values** guide additional **Participatory** and **Open Science** principles:
 - **Participatory Research** encourages us to **co-create our scientific research**. Therefore...
 - We **share decisions**, which requires a high level of **documentation.** 
 - We seek greater **equity** among partners in how collaborate, which requires **responsive pivots** with new stakeholder inputs.
 - We strive use **transparent** and **accessible** processes and platforms, and develop **transparent, accessible resources**.
 
-**Team PSD Project Management Principles**
+## Project Management Principles
 
 - **NOTE: Team PSD Scientific Values guide _how_ and _why_ we synthesize the approaches below**
 
