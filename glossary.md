@@ -6,6 +6,7 @@
 
 **App**: Allows you to automate and improve the GitHub workflow. Team PSD can use apps to automate simple tasks and enforce standards. 
 Application Programming Interface (API): We use APIs as a call to send data from our GitHub repository to GitHub Apps and Actions.
+
 Assignee: The member that is assigned to an issue or feature card. 
 
 Branches: A branch is a parallel version of a GitHub repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes.
@@ -13,10 +14,15 @@ Branches: A branch is a parallel version of a GitHub repository. It is contained
 Bug: An existing feature that has been developed and is not working correctly and should be documented in an issue card on GitHub to be resolved. 
 
 Card: A movable square within an associated and contain documentation for Issue tasks, Bugs, Features, or Pull Requests. You may see issue cards on GitHub Kanban Trackers and on the ZenHub Workspace Board.
+
 Code of conduct: A document that defines standards for how to engage in a community on GitHub.
+
 Comment: Add comments within GitHub issue cards to keep discussion going all within context. 
+
 Compare branch: The branch you use to create a pull request in GitHub. This branch is compared to the base branch you choose for the pull request, and the changes are identified. When the pull request is merged, the base branch is updated with the changes from the compare branch. Also known as the "head branch" of the pull request.
+
 Concurrent Screencast Video: Screencasted videos allows for asynchronous feedback to be provided. These videos consist of users going through the MVP without audio to concurrently focus on the task of seeing/trying out the MVP and whether or not it addresses their user-centered hypotheses and pain points. Videos should be uploaded on the LZPhD YouTube channel. 
+
 Continuous Deployment (CD): Automatic releases to a test or production environment if all the tests from the Continuous Integration (See Continuous Integration) process pass.
 
 Continuous Integration (CI): Practice of integrating changes “continuously”, coupled with automated testing to allow for a function and always up-to-date repository base.
@@ -52,7 +58,9 @@ GitHub Actions: GitHub Actions help automate repository workflows and tasks on G
 Issue: Issues are an important tasks or problems to be worked on and may be discussed with others to resolve and close in a GitHub Issue card. 
 
 Labels: A tag in GitHub that is affixed by an originator or workgroup as a means to identify the task holders for a specific issue. Workgroup leads can filter by labels in the tracker to sort for their specific workgroup or other workgroups’ Kanban cards in the search bar found in the upper right-hand corner of each tracker (below). To use the filter function, use the code “label:labelname” i.e. “label:facilitate” or “label:sim_ui”. (You can use this function with other sort options as well i.e. author:lzim, etc.). In most cases, an issue should only have 1 label at any given time.
+
 LucidCharts: Platform that enables the creation of charts and flows. The team uses LucidCharts for pictorial documentation.
+
 Markdown (language and file format): Markdown is an incredibly simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown and uses a particular form of Markdown called GitHub Flavored Markdown.
 
 Master Card: GitHub Master Cards typically do not have an Assignee, Milestone, Estimate, (with the exception of some Manuscript cards for the PI) as their purpose is to document and track all related issue task cards and/or requirements. These cards usually live in their respective Kanban Tracker and/or ZenHub pipeline. 
@@ -84,6 +92,7 @@ Pull request: Pull requests are proposed changes to a GitHub repository submitte
 Pull request review: Comments from collaborators on a GitHub pull request that approve the changes or request further changes before the pull request is merged.
 
 Readme: A GitHub text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
+
 Refactoring: Refactoring is needed when we have to make upgrades over time and/or prepare for new, incoming features. Refactoring requires internal changes, without effecting external behavior.
 
 Release: GitHub issues that are grouped into a key team release.
@@ -101,6 +110,7 @@ Task: A cognitive or kinetic behavior that consumes time. A task or group of tas
 Team PSD 2.0 Monthly Process: The 2.0 Monthly Process for Epics/Milestones follows the design thinking process based on concepts from user experience to scale and make Team PSD’s workflow become asynchronous to better support the needs and pain points (See User-Centered Hypotheses) of a user with a product that can also be integrated by the end of the month for the team to use. The Monthly Process goes by weeks. 
 
 Team PSD Workflows: Team PSD has 3 workflows: Research, Operations, and Modeling to Learn. 
+
 Think Aloud Protocols: These user testing protocols typically involve participants thinking aloud as they are performing a set of specified tasks. Participants are asked to say whatever comes into their mind as they complete the task. This might include what they are looking at, thinking, doing, and feeling. Team PSD does a combination of a concurrent and retrospective think aloud protocol (see Concurrent Screencast Video and Retrospective Verbal).
 
 User Experience: A person's emotions and attitudes about using a particular product, system/workflow or service. The Team PSD 2.0 Process is based on the foundation of the user’s experience to ensure Products integrated by the end of the monthly Epic address the person’s emotions, attitudes, pain points, and needs.
