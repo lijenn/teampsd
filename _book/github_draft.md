@@ -1,8 +1,6 @@
 # GitHub 
 TeamPSD's main platform for project tracking is GitHub + the extension of [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) for project management. 
 
-We :heart: GitHub for sharing the same commitment and values in having a free and open science workflow. 
-
 ## Standard Operating Procedure (SOP)
 Before beginning to contribute to TeamPSD's workflow, ensure that you read through our [Standard Operating Procedures (SOP)](https://github.com/lzim/teampsd/wiki/TeamPSD-Policy-&-Procedure-SOP) to understand our rules and policies and orient to our team using GitHub.
 
@@ -80,4 +78,3 @@ Files cannot be downloaded individually - you have to download the entire branch
 
 2. To add line specific comments, click on "Files Changed".  Hover your mouse in front of the specific line in question and a blue plus sign will appear.  Click on that and add your comment.  
 ![](https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_4.gif) 
-

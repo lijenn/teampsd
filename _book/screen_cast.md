@@ -1,3 +1,7 @@
+<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/team_psd_logo_sm.png"
+     height = "200" width = "600"> 
+
+
 ### Create Screencast Video
 
 #### Instructions
@@ -71,4 +75,3 @@ Follow the guide [**here**](https://support.microsoft.com/en-us/office/record-yo
 **Reminder:** _Protect your privacy_ and only include information that is relevant for Team PSD prototyping.
      
 **Reference:** van den Haak, Maaike, De Jon, Menno, Schellens, & Peter Jan. (2003). Retrospective vs. concurrent think-aloud protocols: Testing the usability of an online library catalogue. _Behavior & Information Technology, 22._ https://doi.org/10.1080/0044929031000
-

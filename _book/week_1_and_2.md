@@ -1,3 +1,13 @@
+---
+title: "TeamPSD Design Workshop Manual: Day 1"
+author: "TeamPSD"
+date: "May 2020"
+output:
+  github_document: default
+  html_document: default
+  ioslides_presentation: default
+  slidy_presentation: default
+---
 # Team PSD 2.0 Monthly Process
 
 As Team PSD continues to grow, our workflow alongside team values in order to better support the needs of our team, just like how we developed 
@@ -112,4 +122,3 @@ Because...
 
 3. What what was most **surprising**?
 4. What would we have **missed** if we hadnʼt asked why?
-

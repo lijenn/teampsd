@@ -118,4 +118,3 @@ If you don’t already have a gmail/Google account, **select this link** to crea
 ![](https://user-images.githubusercontent.com/59668647/88176162-b436fb80-cbdb-11ea-91c5-03cd13e00743.png)
 
   -	**Choose** a range of speeds.
-

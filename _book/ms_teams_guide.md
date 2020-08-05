@@ -92,5 +92,3 @@ To link to a specific thread or comment or file:
 2. Click on **hyperlink icon copy link button** to copy the link to the location of that thread/comment/file.
 
 ![](https://user-images.githubusercontent.com/59668647/88048555-61d8da80-cb08-11ea-86be-d4cc0ca2d411.png)
-
-

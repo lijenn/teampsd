@@ -27,4 +27,3 @@ pain points and needs with only 20% effort.*
 
 - Solutions are investigated, accepted, improved, re-examined, rejected based on user-experiences.
 - Should give much better sense sense of constraints and how users would behave, think, and feels when interaction with it.
-

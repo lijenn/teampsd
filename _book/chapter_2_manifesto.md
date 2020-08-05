@@ -141,4 +141,3 @@ If you're starting to feel frustrated, it's a key sign that you should use activ
 - “Continuous integration” to avoid “merge conflicts” - _Quotes are meant to clarify that we have this problem at a communication and conceptual level, not just a code level._ **We need the code level next...because...**
 - Ideally...**testing,** **deploying** and **documenting** would be increasingly automated.
 - REALLY need continuous documentation and training.
-

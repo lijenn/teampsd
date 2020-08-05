@@ -20,4 +20,3 @@ that can help you even better mindfully and empathize with users, ultimately to 
 1. Do you see any places where moving forward independently could have been more aligned with the team or integrated better when you were done?
 2. Could a dependency or root assumption have been caught any sooner for the benefit of the team?
 3. Have you discovered a new empathic understanding of the situation from another users' POV (point of view)?
-
