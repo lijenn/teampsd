@@ -3,4 +3,22 @@ language:
   ui:
     chapter_name: "Chapter "
 new_session: yes
-rmd_files: ["index.Rmd", "teampsd_guiding_principles.md", "week_1_and_2.md", "week_3.md", "screen_cast.md", "youtube_guide.md", "week_4.md", "ms_teams_guide.md", "github_draft.md"]
+rmd_files: 
+["index.Rmd", 
+"chapter_2_manifesto.md", 
+"week_1_and_2.md", 
+"week_3.md", 
+"screen_cast.md", 
+"youtube_guide.md", 
+"week_4.md", 
+"ms_teams_guide.md", 
+"github_draft.md",
+"chapter_6_zenhub_guide.md",
+"chapter_7_glossary.md"]
+
+# Chapter 1 - index
+# Chapter 2 - Manifesto
+# Chapter 3 - Team PSD 2.0 Monthly Process
+# Chapter 4 - MS Teams
+# Chapter 5 - GitHub + ZenHub
+# Chapter 6 - Glossary
