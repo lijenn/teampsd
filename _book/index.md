@@ -41,7 +41,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="C1A7:1494:344A5C:4FD583:5F2B0D79" data-pjax-transient="true"/><meta name="html-safe-nonce" content="054eef3e6881dc04ff7c49f28737f6906720aefd" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDMUE3OjE0OTQ6MzQ0QTVDOjRGRDU4Mzo1RjJCMEQ3OSIsInZpc2l0b3JfaWQiOiIyMDA2NDc1MTgzMTY0Njg5Nzg1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c70bac5d7327e59eafb3014e66503d2c8b00b553d5fc3ebd124a287d0f760ab7" data-pjax-transient="true"/>
+  <meta name="request-id" content="C15E:4782:353CA5:5185D9:5F2B1114" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e0654a0ed4413e9c2b58f5259ac812e80c63b4d5" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDMTVFOjQ3ODI6MzUzQ0E1OjUxODVEOTo1RjJCMTExNCIsInZpc2l0b3JfaWQiOiI0NTc4MzgyNTUxNTUzMDg1NzE2IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="7e020ac23aee671cb3f624398d7d51a2c08c14d78177aab9bde8bdd1d94451e9" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:240391054" data-pjax-transient>
 
@@ -291,7 +291,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="LmStP3LiARNLMK2NXGd0+tODGqtBJD0V/cSI2l3Jgo1ysUHR+u2J4Mw3hlElbIztY85zwkYEVp3qY25/O341cA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="X3jLcAzKmMCksYcSMZhW98SAK68noOfScCWiEXJ2b9g8xlzXYav6FBjZ3FhgAtiUPwJYt4vxmFKL2e3gqa0/NQ==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -644,7 +644,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lijenn/teampsdprototype/blob/d24aadcd11831734ab29c5901470927f1cecc5cb/index.Rmd">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lijenn/teampsdprototype/blob/c5a23fb5eb8c43770c31eae03830b26bb7beb932/index.Rmd">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v22:2f0c85325afc5182349a09f21677cd31 -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
@@ -729,77 +729,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/lijenn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lijenn"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/59668647?s=48&amp;v=4" width="24" height="24" alt="@lijenn" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold link-gray-dark" rel="author" data-hovercard-type="user" data-hovercard-url="/users/lijenn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lijenn">lijenn</a>
-
-              <span>
-                <a data-pjax="true" title="Update index.Rmd" class="link-gray" href="/lijenn/teampsdprototype/commit/c8f8b4e9b84fcd2f3679f5f3369dae23cb7d4e4a">Update index.Rmd</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/lijenn/teampsdprototype/commit/c8f8b4e9b84fcd2f3679f5f3369dae23cb7d4e4a/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/lijenn/teampsdprototype/contributors/gh-pages/index.Rmd" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono link-gray" href="/lijenn/teampsdprototype/commit/c8f8b4e9b84fcd2f3679f5f3369dae23cb7d4e4a" data-pjax>c8f8b4e</a>
-            <span itemprop="dateModified"><relative-time datetime="2020-08-04T22:33:37Z" class="no-wrap">Aug 4, 2020</relative-time></span>
-          </span>
 
-          <a data-pjax href="/lijenn/teampsdprototype/commits/gh-pages/index.Rmd" class="ml-3 no-wrap link-gray-dark no-underline">
-            <svg text="gray" height="16" class="octicon octicon-history text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
-      <summary class="link-gray-dark">
-        <svg text="gray" height="16" class="octicon octicon-people text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
-        <strong>2</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/lijenn/teampsdprototype/contributors-list/gh-pages/index.Rmd" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/lijenn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lijenn/teampsdprototype/commits/gh-pages/index.Rmd?author=lijenn">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/59668647?s=48&amp;v=4" width="24" height="24" alt="@lijenn" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/anthonycpichardo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lijenn/teampsdprototype/commits/gh-pages/index.Rmd?author=anthonycpichardo">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/60201706?s=48&amp;v=4" width="24" height="24" alt="@anthonycpichardo" /> 
-</a>
-</span>
-
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1158,7 +1098,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lijenn/teampsdprototype/blame/d24aadcd11831734ab29c5901470927f1cecc5cb/index.Rmd">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lijenn/teampsdprototype/blame/c5a23fb5eb8c43770c31eae03830b26bb7beb932/index.Rmd">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/lijenn/teampsdprototype/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
