@@ -108,6 +108,10 @@ Second Story Perspectives: A retrospective look during Week 4 of the Team PSD 2.
 Task: A cognitive or kinetic behavior that consumes time. A task or group of tasks are necessary to create an outcome or deliverable.
 
 Team PSD 2.0 Monthly Process: The 2.0 Monthly Process for Epics/Milestones follows the design thinking process based on concepts from user experience to scale and make Team PSD’s workflow become asynchronous to better support the needs and pain points (See User-Centered Hypotheses) of a user with a product that can also be integrated by the end of the month for the team to use. The Monthly Process goes by weeks. 
+- Week 1: Gather user-centered hypotheses
+- Week 2: Clarify user assumptions w/ Minimum Viable Product (MVP) test
+- Week 3: Review results of user persona testing of your MVP Prototype (with concurrent video and retrospective verbal)
+- Week 4: Review user persona artifacts and second story perspectives mindfully and empathically to discover new understandings you might have missed or still need to learn
 
 Team PSD Workflows: Team PSD has 3 workflows: Research, Operations, and Modeling to Learn. 
 
