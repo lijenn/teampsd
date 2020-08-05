@@ -4,7 +4,7 @@
 
 [Chapter 1 - index](https://github.com/lijenn/teampsdprototype/blob/gh-pages/index.Rmd)
 
-[Chapter 2 - Manifesto](https://github.com/lijenn/teampsdprototype/blob/gh-pages/chapter_2_manifesto.md)
+[Chapter 2 - Manifesto](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/training_guides/chapter_2_manifesto.md)
 
 [Chapter 3 - Team PSD 2.0 Monthly Process](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/week_1_and_2.md)
 [WEEK 3 PSD 2.0 PROCESS](https://raw.githubusercontent.com/lijenn/teampsdprototype/master/resources/design/design_workshop_manual/week_3.md)
