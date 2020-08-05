@@ -186,7 +186,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="EttYTeDAuskAc5llsQWrRvylaOMwfH6ZG1/rOfmn6689JYmKltNZJ8InYS3UXzmhodT1lpa+6Ge5HYT0JIrt3A==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="QA2qIYfdaHA0fsE6oSb40i3gz7YjQ5aqFOEUGcDuUTSW5CRNWaO0uIIwrDdZwHsEzTJ9OsCyBttBSY388ySOCg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -539,7 +539,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lijenn/teampsdprototype/blob/f5f20319648e1ae9ed498a2cfd642299f01f3618/chapter_6_zenhub_guide.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lijenn/teampsdprototype/blob/d24aadcd11831734ab29c5901470927f1cecc5cb/chapter_6_zenhub_guide.md">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v22:fa23cd57880c300656fc3bab65dae858 -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
