@@ -1,4 +1,10 @@
-# Values & Principles & Standards
+# Standard Operations
+
+## Team PSD
+
+![](https://user-images.githubusercontent.com/59668647/89570075-7f7d9380-d7da-11ea-95b2-0e1422c1bd75.png)
+
+Meet the members and partners of Team Participatory Systems Dynamics at https://mtl.how
 
 ## Scientific Values 
 
