@@ -1,19 +1,31 @@
+## Track Issues & Features
+
+### Create Issue/Feature cards [click maps]
+### Maintaining Cards [flow map]
+
+## Use Markdown
+### 1.1 Language cheatsheet
+### 1.2 Files
+1.2.1 Add files
+1.2.2 Go to file
+1.2.3 Edit files
+
+## Use Branches
+
+### Features
+#### Create 
+#### Edit
+#### Tests
+
+### QA
+#### Orientation Map 
+#### Edit
+#### Tests
+
+### Production
+#### Merge
 
 
-## Basics of GitHub 
-To go through a quick overview on repositories, branches, commits, and opening/merging pull requests, click [here](https://guides.github.com/activities/hello-world/).
-
-For a glossary of GitHub terms, click [here](https://docs.github.com/en/github/getting-started-with-github/github-glossary).
-
-## Style
-We use R Markdown format for syntax and style which you can refer to here (ADD HYPERLINK). Use a human and computer readable format to name files, meaning all lowercase, underscores, and dates (as necesary) with a name that will be meaningful to whoever reads it. 
-
-We will update with links to style guides.
-
-## ZenHub for Project Management
-Our team uses the GitHub Google Chrome extension, [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US), for project management.
-
-#### ZenHub Flow - Issue Card
 
 To create an issue card, begin [here](https://github.com/lzim/teampsd/issues/new/choose) and follow the flow to create and maintain your issue card. 
 ![Zenhub Flow my version to learn](https://user-images.githubusercontent.com/59668647/88049640-5ab2cc00-cb0a-11ea-89a0-a09d13d4761d.png)
