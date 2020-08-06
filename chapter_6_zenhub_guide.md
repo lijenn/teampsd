@@ -5,7 +5,7 @@
 Team PSD uses the GitHub Google Chrome extension, [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US), for agile project management.
 
 We use ZenHub to:
-- see all of our Workgroups workflow at a glance.
+- see all of our Team PSD's workflow at a glance.
 - organize and prioritize existing issues and features.
 - track dependencies across workgroups.
 - plan for our month's work in a Epic and plan for further Epics down the road.
