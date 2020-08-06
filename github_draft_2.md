@@ -2,7 +2,7 @@
 
 ### Create Issue/Feature cards [click maps]
 
-Click map would explain process[here](https://github.com/lzim/teampsd/issues/new/choose)
+Click map would explain process [here](https://github.com/lzim/teampsd/issues/new/choose)
 
 ### Maintaining Cards [flow map]
 
