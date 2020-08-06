@@ -1,4 +1,4 @@
-# GitHub 
+# GitHub + ZenHub
 TeamPSD's main platform for project tracking is GitHub + the extension of [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) for project management. 
 
 ## GitHub Repositories
