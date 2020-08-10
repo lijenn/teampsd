@@ -19,11 +19,15 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","HelpersMG","readr"))'
+        
+      - uses: r-lib/actions/setup-tinytex@v1
       - name : install tinytex
-        run: |
-             brew cask install basictex
-             Rscript -e 'tinytex::install_tinytex()'
-             Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
+        run: tlmgr --version
+        
+        #run: |
+         #    brew cask install basictex
+          #   Rscript -e 'tinytex::install_tinytex()'
+           #  Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
       - name: Render Book
         run: |
              Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book")'
