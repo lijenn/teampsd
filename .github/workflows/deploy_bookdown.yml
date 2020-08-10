@@ -30,9 +30,9 @@ jobs:
            #  Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
       - name: Render Book
         run: |
-             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book")'
-             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::word_document2")'
-             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book", output_dir="docs")'
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::word_document2", output_dir="docs")'
+             Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook", output_dir="docs")'
       - uses: actions/upload-artifact@v1
         with:
           name: docs
