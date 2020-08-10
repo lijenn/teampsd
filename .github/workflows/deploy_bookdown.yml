@@ -23,11 +23,7 @@ jobs:
       - uses: r-lib/actions/setup-tinytex@v1
       - name : install tinytex
         run: tlmgr --version
-        
-        #run: |
-         #    brew cask install basictex
-          #   Rscript -e 'tinytex::install_tinytex()'
-           #  Rscript -e 'tinytex::tlmgr_install("pdfcrop")'
+    
       - name: Render Book
         run: |
              Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book", output_dir="docs")'
