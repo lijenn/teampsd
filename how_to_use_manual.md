@@ -50,7 +50,7 @@ To use the **built-in** Ctrl-F function:
 
 - To look through all of the instances, click the Enter button on your keyboard:
 
-![](https://user-images.githubusercontent.com/59668647/89900231-4eb1ab80-db98-11ea-9540-f574ff01c8ec.png)
+![](https://user-images.githubusercontent.com/59668647/89904640-085f4b00-db9e-11ea-8606-5b88e44519b7.png)
 
 - To look within a chapter from the Table of Contents, click on the chapter you want to search in and click Enter to look through the instances in that chapter:
    - Clicked on the Glossary chapter for example
