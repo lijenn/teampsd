@@ -111,20 +111,24 @@ If you're starting to feel frustrated, it's a key sign that you should use activ
 - **NOTE: Team PSD Scientific Values guide _how_ and _why_ we synthesize the approaches below**
 
 **Team PSD integrates Waterfall** principles because:
+
 - We are a **research team** that cannot deviate in quality, scope, timeline or cost from our thoroughly developed and vetted **research plan**
 - Therefore, there are several **well-defined scientific requirements** where change cannot occur - unless the PI and co-I senior scientists advise an operational definition or implementation detail is within the scope of the federally funded and registered, scientifically peer-reviewed, and VA ORD and Stanford IRB reviewed procedures.
 
 **Team PSD integrates Agile** principles because:
+
 - Our research team’s method is a an implementation of **participatory system dynamics** in a national production environment.
 - These methods **historically have iterated in-person** locally. 
 - Our innovation is local priorities, local data and local insights at national scale, made possible using **online platforms** and **virtual processes**.
 
 **Team PSD integrates Waterfall and Agile** principles because:
+
 - We are using a funded **a priori research design** (Waterfall) to **study** an **implementation science** (Agile) problem.
 - Producing generalizable knowledge requires implementation scientists to **follow and report publicly** progress completing a **rigorous, replicable plan** (Waterfall)
 - However, the context is not a tightly controlled laboratory, rather we are **working with operational partners** to **implement our innovation** the dynamic context of real world healthcare operations (Agile)
 
 **Team PSD integrates Lean** principles because:
+
 - Team PSD **_processes_** are assessed for continuous improvement (kaizen/muda elimination)
 - Team PSD **_communication_** is designed to reduce rework (muda/waste)
 - Team PSD encourages **_minimum viable products_** to find and synthesize team and partner expertise (just-in-time) 
@@ -132,17 +136,20 @@ If you're starting to feel frustrated, it's a key sign that you should use activ
 - Note: VA uses Lean as a primary approach to healthcare quality improvement.
 
 **Team PSD integrates Scrum** principles because:
+
 - We need to be able keep work produced by our t**ransdisciplinary research team** on the same page with our **cross-functional team**.
 - Therefore, we use **sprints** (epics/milestones)so that the **team priorities** can be aligned/re-aligned efficiently.
 - We also use **workgroup leads** (scrum masters), **workgroups** (owners) and **workgroup** meetings to benefit from the efficiency of **divvying up/delegating**, while also identifying **dependencies** and remove **blocks**.
 - We use **GitHub/ZenHub** and **daily huddles** to assign, scope, prioritize, manage and review our capacity, requirements, estimates - this includes **Project Kanbans, Issue Cards, Pipelines & Reporting**.
 
 **Team PSD Pain points we are working to better address**:
+
 - Need &&tight collaboration without unnecessary overhead,** so **culture of participation** is maintained
 - Need **rapid iterations that prototype,** check early, and **synthesize input**from key stakeholders as efficiently as possible, so we aren’t pulled in wasteful directions or adding unnecessary **rework**
 - Need a **standard set of principles and processes,** so our **production platforms** are **stable at scale.**
 
 **Continuous Collaborative Iteration Cycles (e.g., “DevOps”)**
+
 - SOP > Workgroup Meetings > Monthly Priorities > Requirements gathering standardization for features
 - Tools for team members to understand cross-functional “stakes” efficiently 
 - “Continuous integration” to avoid “merge conflicts” - _Quotes are meant to clarify that we have this problem at a communication and conceptual level, not just a code level._ **We need the code level next...because...**
@@ -150,12 +157,19 @@ If you're starting to feel frustrated, it's a key sign that you should use activ
 - REALLY need continuous documentation and training.
 
 ## Standard Operations
+
 ### Policy
+
 #### Scope
+
 This policy applies to all TeamPSD members involved with research under grants, R21DA042198, R01DA046651, IIRI01HX002521 commonly known as Modeling to Learn (MTL). This policy is subordinate to new or existing Veterans Administration (VA) policy. Any issues identified that are contrary to VA policy or federal laws should be brought to the attention of the Principal Investigator, Lindsey Zimmerman, (lindsey.zimmerman@va.gov).
-#### Purpose
+
+### Purpose
+
 This policy details the governing principles, definitions, responsibilities and procedures for managing cards, issues, & pull requests in the Kanban production management system for the issue_tracker, feature_tracker, document_tracker, and manuscript_tracker GitHub projects for the TeamPSD. Finally, the policy will describe how MTL and overarching research experimental design and reporting with be coordinated.
+
 #### Responsibilities
+
 * Principal Investigator - Provides overall direction and guidance to Workgroup Leads.  Coordinates research activities and prioritizes activities within the MTL program with the HQ workgroup
 * Co-facilitators - Gathers field information and provides feedback to Workgroup Leads regarding the performance of a product in the teaching/learning environment. Facilitate Modeling to Learn 12 Session Program with identified clinics for the R01 and IIR grants.
 * Co-investigators - Oversees the science and research dependencies across the project. 
@@ -170,12 +184,19 @@ This policy details the governing principles, definitions, responsibilities and 
 * Proxy - An individual who is a member that supports a specific workgroup and can participate in the absence of the Workgroup Lead to represent the interests of a workgroup.  A Proxy has the decision-making authority of the Workgroup Lead they represent. The Workgroup Lead must still provide detailed and concise documentation of questions and scope on bugs and features related to their workgroup in the Workgroup Leads meeting agenda.
 
 ### Workgroups
+
 The table below describes all of the TeamPSD workgroups including their Workgroup Lead, Meeting Time, and Role. For each meeting, it is the responsibility of the Workgroup Lead or HQ point person to:
+
 1. Set the agenda
+
 2. Check RSVP’s for attendees 
+
 3. Clean up meeting notes for clarity
+
 4. Send the follow-up email 
+
 4. Publish the meeting to Basecamp
+
 5. Save Lucid audio in the TeamPSD folder: Meeting Agendas & Recordings (and backup and save any mtl.how/live recordings as relevant)
 
 |Workgroup (Workgroup Lead) (Meeting Time)|Role|
@@ -258,6 +279,7 @@ Each column also has a “meta” card which is used to indicate interdependenci
 The manuscript_tracker is divided into 10 columns described below. The purpose of the manuscript_tracker is to track progress of manuscripts through 10 major stages until ready for publication.
 
 DO NOT post any direct manuscript content to GitHub; all drafts and related materials will be posted on the relevant OSF project. There will be a card per manuscript that moves through the tracker.
+
 1. 01_osf_project – OSF project is created for this manuscript with all relevant materials posted, Zotero & GitHub integrations approved, cheatsheets linked, and relevant people added
 1. 02_authorship – Initial authorship weights and task division are identified
 1. 03_write_analyze – Manuscript is written and materials for analysis are produced.
@@ -270,47 +292,66 @@ DO NOT post any direct manuscript content to GitHub; all drafts and related mate
 1. 10_publish_publicize – Manuscript is published!
 
 ### pull_requests are used to edit many types of files on Team PSD.
+
 #### There are differences between pull requests for code and pull requests for documentation.
 
 Updates to _MTL_ documentation are tracked in the **document_tracker.**
+
 The **document_tracker** represents the entire corpus of _Modeling to Learn_ documentation at any given time.
+
 The **document_tracker** state for any _MTL_ release is that all cards in the tracker are "closed."
+
 This means that that all documentation is up-to-date, was reviewed and moved to production consistent with the current release of _Modeling to Learn_.
+
 Each card in the **document_tracker** includes a **checklist** that must be completed before the document is ready for release. 
 
 Pull requests that are completed based on a **document_tracker** checklist should reference both the **document_tracker** card, the GitHub task issue assigned to them using cross-referencing with the relevant #/hashtag number.
 
 **LZ Edits are still needed below here Feb. 20, 2020**
-Reviewers – Workgroup leads will develop code review procedures in their own workgroups. Including who will regularly review and merge pull requests each morning. Reviewers provide the final approval on commits, and merges and closes pull requests(merge & delete branch). 
+
+Reviewers – Workgroup leads will develop code review procedures in their own workgroups. Including who will regularly review and merge pull requests each morning.
+
+Reviewers provide the final approval on commits, and merges and closes pull requests(merge & delete branch). 
+
 Assignees – Execute the task by creating a pull requests, make sure pull request is linked to appropriate card in the document_tracker, and the issue task that describes   
 
 ### Monthly Sprint: Management and Coordination of Milestones
+
 * The main purpose of developing a monthly sprint milestone timeline is to help everyone in each workgroup look into the current and following month’s timeline and organize all possible dependencies and delegations. This will meet the need of how people can see where they are needed, reduce bottlenecking, and accomplish deliverables.
+
 * The GitHub Milestone feature will be used to track high priority goals that must be accomplished by the end of the month. Issue, feature, manuscript, and document cards will be attached to a Milestone(s). Click [here](https://help.github.com/en/github/managing-your-work-on-github/creating-and-editing-milestones-for-issues-and-pull-requests) on how to create milestones.
+
 * Milestones must be identified and outlined alongside their time cost (how long will it take to complete this and when is the earliest that it can be completed) by each workgroup. It is the responsibility of the Workgroup Lead to bring the draft Milestones to the 1st Workgroup Leads meeting of each month. 
+
 * The PI will join the 1st Workgroup Leads and Support Workgroups meeting of each month to provide clarification and guidance on that month’s Milestones. The 4th Tuesday All Hands meeting will be used to celebrate the successes and completion of each workgroup's monthly milestones.
 
 ### Workgroup Leads & Support Workgroups Meetings
+
 **When?**
+
 Workgroup Leads meetings occur every Monday from 0800 PST to 0900 PST and Support Workgroups meetings occur every Thursday from 0800 PST to 0900 PST.
 If an ad-hoc Workgroup Lead and Support Workgroups meeting is required, any lead, Co-I or the Principal Investigator may coordinate a meeting with all other leads to resolve urgencies. 
 
 **Where?**
+
 Meetings will be hosted on-line using Lucid. Regular Workgroup Lead meetings are scheduled and managed by HQ. 
 Screen-sharing will be facilitated by Adobe Connect at mtl.how/live.
 
 **Goal**
+
 The goal of the meeting is to triage all issues that have entered into the issue-tracker triage section and identify workgroup interdependencies based on priorities for the week. Deadlines will be added or updated at this meeting based on changing priorities and scope.
 
 The PI will join the 1st Workgroup Leads and Support Workgroups meeting of each month. HQ will provide a draft dev/test/prod schedule outlining priorities, deliverables, and review dates across all workgroups for the month.
 
 **Governing Principles**
+
 * Prepare - if something is to be presented, be sure it is loaded up to Lucid meeting 24 hours prior to meeting and added to the New Business area of the agenda.
 * Document the discussion - take notes!
 * Keep the meeting moving along - stay on topic.
 * Stay aware of the time - a good meeting starts on time and ends on time.
 
 Standard Agenda
+
 * Role call
 * Assign note-taker (this should be a revolving duty). Note-taker will track decisions in Lucid and next steps or questions related to issues will be tracked directly in the issue thread.
 * Review and Triage open issues (on the mtl.how/issues tracker)
