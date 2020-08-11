@@ -241,7 +241,7 @@ ees | *description to come*
 vapor | *description to come*
 
 ### Kanban Management System
-#### bug_tracker
+#### [bug_tracker](https://mtl.how/bugs)
 The issue_tracker is divided into 6 columns described below.  The purpose of the issue_tracker is to provide triage and track the disposition of issues that require action by one or more workgroups. Issues labeled as “bugs” will be tracked here.
 
 1. needs_triage - This column is the main intake for all issues assigned to the issue_tracker. All issues requiring a disposition will land here. When an issue lands in this section, any team lead may review it and alert other leads as to the action required.
@@ -252,7 +252,7 @@ The issue_tracker is divided into 6 columns described below.  The purpose of the
 1. done - This column contains completed issues.  Responsible Workgroup Leads shall communicate completion of the action to the originator in the issue thread.  The originator shall review the action, indicate their satisfaction/dissatisfaction.  Once the originator is satisfied, the originator should close the issue and it will automatically go in the closed column.
 1. closed - This column contains issues closed by the originator from the done column. Any issue can be reopened as necessary.
 
-#### feature_tracker
+#### [feature_tracker](https://mtl.how/features)
 The feature_tracker is divided into 9 columns described below.  The purpose of the feature_tracker is to report and maintain information regarding the analysis of dependencies and work-content, and track the progress of issues that require development. Issues labeled as “features” will be tracked here.
 
 1. work_breakdown - Validated feature requirements that have received a disposition are listed here.  Issues in this column are analyzed by Workgroup Leads for dependencies, effort content and milestones they may support (see Appendix 1 - issue_template). Issues will progress from this section to either the operations_to_do (ranked) or the research_to_do (ranked) sections.  
@@ -264,7 +264,7 @@ The feature_tracker is divided into 9 columns described below.  The purpose of t
 1. closed - This column contains issues closed by the originator from the done column. Any issue can be reopened as necessary.
 1. future_release – This column contains unresolved feature ideas that would be great to include in a future MTL release, but currently is not a pressing need. 
 
-#### document_tracker
+#### [document_tracker](https://mtl.how/documents)
 The document_tracker is divided into 5 columns described below.  The purpose of the document_tracker is to track documentation dependencies at 5 levels for each of the 12 sessions of Modeling to Learn. There will be a card for each session of the 12 sessions in each of the 5 Kanban columns which will be closed & reopened as interdependencies get identified.
 
 Each column also has a “meta” card which is used to indicate interdependencies that are relevant to all/most of the 12 sessions as well as policy & workflow decisions specific to that documentation column.
@@ -275,7 +275,7 @@ Each column also has a “meta” card which is used to indicate interdependenci
 1. dissemintate_scientists_va - Documentation dependencies relevant to co-investigators & larger scientific audience, including progress reports, code, grants, etc.
 1. depend_products - Documentation dependencies relevant to other MTL products, including videos
 
-#### manuscript_tracker
+#### [manuscript_tracker](https://mtl.how/manuscripts)
 The manuscript_tracker is divided into 10 columns described below. The purpose of the manuscript_tracker is to track progress of manuscripts through 10 major stages until ready for publication.
 
 DO NOT post any direct manuscript content to GitHub; all drafts and related materials will be posted on the relevant OSF project. There will be a card per manuscript that moves through the tracker.
