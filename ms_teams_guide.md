@@ -59,7 +59,7 @@ To edit a message:
 ![](https://user-images.githubusercontent.com/59668647/88048270-e0814800-cb07-11ea-9c0e-51baf0b3c383.png)
 
 
-### Use Markdown
+### Type in Markdown
 Teams is Markdown friendly!
 
 1. Try using **basic markdown** such as bolding or italicizing text in a comment/reply.
