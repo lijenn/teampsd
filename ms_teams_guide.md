@@ -124,11 +124,12 @@ Here I am showing Google Chrome and Teams:
 To find a meeting call's screen once you've clicked out of the meeting to look elsewhere on Temas (i.e you needed to respond to a ping, when to look for a link in a discussion thread, etc.):
 
 1. Minimize the Teams browser completely by clicking on the middle (-) button at the top header of the browser:
+
 ![](https://user-images.githubusercontent.com/59668647/89908115-5d04c500-dba2-11ea-9760-4f4ccb648232.png)
 
 2. Go to a new browser or your desktop and the meeting call should appear in the bottom right hand corner:
 
-![image](https://user-images.githubusercontent.com/59668647/89908479-c5ec3d00-dba2-11ea-80d7-fcf6537c7691.png)
+![](https://user-images.githubusercontent.com/59668647/89908479-c5ec3d00-dba2-11ea-80d7-fcf6537c7691.png)
 
 Alternative (only applicable to Channel Meetings, not Private 1:1 meetings):
 
