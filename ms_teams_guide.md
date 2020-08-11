@@ -26,7 +26,7 @@ This guide will help you learn the basic user interface functions of Microsoft T
 ## Additional Tips/Functions
 
 ### Switch Organizations
-To switch out of an organization:
+To switch out of an organization on the VA Teams WebApp Brower:
 
 1. Click on the **organization you are currently in**, located next your profile picture & name.
 ![](https://user-images.githubusercontent.com/59668647/88048075-81bbce80-cb07-11ea-80af-a9f94bd6a63a.png)
@@ -34,6 +34,17 @@ To switch out of an organization:
 
 2. To switch out of the organization, click on the **organization you want to switch into**.
 ![](https://user-images.githubusercontent.com/59668647/88027821-ab1b3100-caec-11ea-95f0-7105e57fd497.png)
+
+To switch out of an organization on the Non-VA Teams Desktop:
+
+1. You must sign out and re-login into the Desktop App by going to your Profile and signing out:
+![](https://user-images.githubusercontent.com/59668647/89906340-1c0bb100-dba0-11ea-9ded-705163c7524d.png)
+
+2. You will be given the option of choosing an organization to sign into, click on the drop down to select an option.
+![](https://user-images.githubusercontent.com/59668647/89906494-52493080-dba0-11ea-98eb-2337a0aded84.png)
+
+3. Click 'continue' and Teams will switch you into the chosen organization:
+![](https://user-images.githubusercontent.com/59668647/89906664-845a9280-dba0-11ea-9dbb-06c0de261fd4.png)
 
 
 ### Meet in a Channel
@@ -79,6 +90,44 @@ To start a meeting call within the same conversation thread to keep context:
 ![](https://user-images.githubusercontent.com/59668647/88048451-33f39600-cb08-11ea-8082-dddbf10ac0c4.png)
 
 
+### Share Dual Screens
+To share multiple browser windows or screens:
+
+1. Click on the **screen share button** that appears when you hover over your meeting call screen:
+![](https://user-images.githubusercontent.com/59668647/89902987-f8df0280-db9b-11ea-80de-d959acf7ec54.png)
+
+2. Select the **square underneath Desktop** to share your entire laptop's Desktop screen. 
+
+Note: Be wary of any open tabs or browsers you may have open that may contain PHI or personal information that you do not want to share.
+![](https://user-images.githubusercontent.com/59668647/89903248-4b202380-db9c-11ea-8072-e0a5c698fc90.png)
+
+3. You will notice a subtle red border outlining your entire desktop screen. 
+The red border is only visible to you and not anyone else, hence not pictured here.
+
+TIP: Queue up the window you want to share in advance.
+I had already quequed up my Google Chrome Browser in the background, which is now being shared as the default of entire desktop screen.
+
+![](https://user-images.githubusercontent.com/59668647/89903438-7c98ef00-db9c-11ea-97f0-1958311c870f.png)
+
+4. Drag in other window/browsers within the red border to show dual screens.
+
+Here I am showing Google Chrome and Teams:
+![](https://user-images.githubusercontent.com/59668647/89903549-a225f880-db9c-11ea-9ceb-cd620b54a5f5.png)
+
+5. End screen sharing by going back to the meeting and clicking on the screen sharing button.
+
+![](https://user-images.githubusercontent.com/59668647/89903641-bff35d80-db9c-11ea-97b0-8f64fe0f96a0.png)
+
+
+### Disappeared Meeting
+To find a meeting call's screen once you've clicked out of the meeting (i.e you went to look for a file outside of Teams, went to an issue/Bug on GitHub, etc.):
+
+1. Minimize the Teams browser completely by clicking on the middle (-) button at the top header of the browser:
+![](https://user-images.githubusercontent.com/59668647/89908115-5d04c500-dba2-11ea-9760-4f4ccb648232.png)
+
+2. 
+
+
 ### "React" to a Comment
 To "React" to a comment or reply to acknowledge it:
 
@@ -96,3 +145,12 @@ To link to a specific thread or comment or file:
 2. Click on **hyperlink icon copy link button** to copy the link to the location of that thread/comment/file.
 
 ![](https://user-images.githubusercontent.com/59668647/88048555-61d8da80-cb08-11ea-86be-d4cc0ca2d411.png)
+
+
+### Pop up Chat
+
+1. Hover over a meeting chat in the Chat tab and click on the 3 dots that appear.
+![](https://user-images.githubusercontent.com/59668647/89903979-36905b00-db9d-11ea-95cf-67bd8c0ffe26.png)
+
+2. Click 'Pop out Chat" for the chat to display and external new window.
+![](https://user-images.githubusercontent.com/59668647/89904058-545dc000-db9d-11ea-8990-8b032b3151aa.png)
