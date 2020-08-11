@@ -19,6 +19,10 @@ This guide will help you learn the basic user interface functions of Microsoft T
 - Add/Share/Work with Files
 - and more!
 
+## Flow Map
+
+![](https://user-images.githubusercontent.com/59668647/89901022-5887de80-db99-11ea-8ccc-4e5983b0b988.png)
+
 ## Additional Tips/Functions
 
 ### Switch Organizations
@@ -55,7 +59,7 @@ To edit a message:
 ![](https://user-images.githubusercontent.com/59668647/88048270-e0814800-cb07-11ea-9c0e-51baf0b3c383.png)
 
 
-### Use Markdown
+### Type in Markdown
 Teams is Markdown friendly!
 
 1. Try using **basic markdown** such as bolding or italicizing text in a comment/reply.

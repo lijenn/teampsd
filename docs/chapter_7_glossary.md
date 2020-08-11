@@ -1,5 +1,7 @@
 # Glossary 
 
+Links are in progress of being collated and added!
+
 ## Terms
 
 **@ Mentions**: to notify a person on GitHub by using @ before their username. Users in an organization on GitHub can also be a part of a team that can be mentioned.
