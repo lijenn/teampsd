@@ -19,6 +19,10 @@ This guide will help you learn the basic user interface functions of Microsoft T
 - Add/Share/Work with Files
 - and more!
 
+## Flow Map
+
+![](https://user-images.githubusercontent.com/59668647/89901022-5887de80-db99-11ea-8ccc-4e5983b0b988.png)
+
 ## Additional Tips/Functions
 
 ### Switch Organizations
