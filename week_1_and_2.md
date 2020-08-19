@@ -9,7 +9,6 @@ output:
   slidy_presentation: default
 ---
 # Team PSD 2.0 Monthly Process
-
 As Team PSD continues to grow, our workflow alongside team values in order to better support the needs of our team, just like how we developed 
 [_Modeling to Learn_](https://mtl.how) to scale nationally in the Veterans Health Administration.
 
