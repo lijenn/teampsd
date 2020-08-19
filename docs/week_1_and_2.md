@@ -12,9 +12,6 @@ output:
 As Team PSD continues to grow, our workflow alongside team values in order to better support the needs of our team, just like how we developed 
 [_Modeling to Learn_](https://mtl.how) to scale nationally in the Veterans Health Administration.
 
-https://mtl.how.
-<https://mtl.how>.
-
 The **participatory learning** principles we scaled in _Modeling to Learn_ are:
 
 - equitable access to resources
