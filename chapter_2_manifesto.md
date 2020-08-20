@@ -1,4 +1,4 @@
-# Standard Operations testing
+# Standard Operations
 
 ## Team PSD
 
