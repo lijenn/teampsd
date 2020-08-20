@@ -1,8 +1,6 @@
-# Standard Operations
+# Standard Operations testing
 
 ## Team PSD
-
-test input here remove later
 
 ![](https://user-images.githubusercontent.com/59668647/89570075-7f7d9380-d7da-11ea-95b2-0e1422c1bd75.png)
 
