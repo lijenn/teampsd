@@ -2,8 +2,10 @@
 
 ## Team PSD
 
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
-     height = "175" width = "420">](#DontLink)
+<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
+     height = "175" width = "420">
+
+<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png">
      
 ![](https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png)
 
