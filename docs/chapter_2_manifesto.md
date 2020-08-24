@@ -2,12 +2,6 @@
 
 ## Team PSD
 
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png"
-     height = "175" width = "420">](#DontLink)
-     
-![](https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s01_teamvision_title.png)
-
-
 ![](https://user-images.githubusercontent.com/59668647/89570075-7f7d9380-d7da-11ea-95b2-0e1422c1bd75.png)
 
 Meet the members and partners of Team Participatory Systems Dynamics at https://mtl.how
